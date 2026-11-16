@@ -118,7 +118,8 @@
     "proofreader-s-desk",
     "feature-intersection",
     "signal-queue",
-    "search-without-repeating"
+    "search-without-repeating",
+    "conversation-filter"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
