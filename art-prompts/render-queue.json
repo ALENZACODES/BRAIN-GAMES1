@@ -473,5 +473,10 @@
     "id": "peripheral-locator",
     "kind": "poster",
     "blob_sha": "01e3afdf3abbfa1ba9ddf063a96ceaa5d1efa484"
+  },
+  {
+    "id": "peripheral-locator",
+    "kind": "banner",
+    "blob_sha": "349564e12f942ade48a030ce2a6abac80970834c"
   }
 ]
