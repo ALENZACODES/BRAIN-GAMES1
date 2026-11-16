@@ -65,7 +65,8 @@
     "focus-recovery",
     "go-hold-garden",
     "stop-the-delivery",
-    "rule-switch-station"
+    "rule-switch-station",
+    "opposite-compass"
   ],
   "banner": [
     "window-watch",
