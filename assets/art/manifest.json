@@ -86,7 +86,8 @@
     "code-key",
     "bigger-value",
     "rapid-category",
-    "matching-stream"
+    "matching-stream",
+    "letter-locator"
   ],
   "banner": [
     "window-watch",
