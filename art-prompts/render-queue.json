@@ -923,5 +923,10 @@
     "id": "duplicate-detector",
     "kind": "poster",
     "blob_sha": "9a50b34255678b16754c4126cc23388d833e692a"
+  },
+  {
+    "id": "duplicate-detector",
+    "kind": "banner",
+    "blob_sha": "4181de01b9d2fd5de6e881ba343ae5abc7eba977"
   }
 ]
