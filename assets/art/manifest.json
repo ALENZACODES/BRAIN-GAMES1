@@ -93,7 +93,9 @@
     "pattern-passport",
     "route-flash",
     "word-picture-match",
-    "missing-piece-sprint"
+    "missing-piece-sprint",
+    "order-check",
+    "sound-pair-check"
   ],
   "banner": [
     "window-watch",
@@ -189,7 +191,8 @@
     "pattern-passport",
     "route-flash",
     "word-picture-match",
-    "missing-piece-sprint"
+    "missing-piece-sprint",
+    "order-check"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
