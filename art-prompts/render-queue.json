@@ -688,5 +688,10 @@
     "id": "forbidden-number",
     "kind": "banner",
     "blob_sha": "31f93ad6989b7afd4e844c7ecc7830affefe1e57"
+  },
+  {
+    "id": "change-the-sorting-law",
+    "kind": "poster",
+    "blob_sha": "c26c42a4b91d1e652addf0dac89a82a03b57c97d"
   }
 ]
