@@ -338,5 +338,10 @@
     "id": "password-palace",
     "kind": "banner",
     "blob_sha": "4b3d57e378021296f77700d2a62c3cb5e4242eea"
+  },
+  {
+    "id": "detail-detective",
+    "kind": "poster",
+    "blob_sha": "f08234cc78ec54fc4b58442e862ea3a87a9d58b2"
   }
 ]
