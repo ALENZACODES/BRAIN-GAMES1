@@ -98,7 +98,8 @@
     "central-arrow",
     "quiet-signal",
     "changing-shopfront",
-    "multiple-object-tracker"
+    "multiple-object-tracker",
+    "pattern-search"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
