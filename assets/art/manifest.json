@@ -79,7 +79,8 @@
     "relevant-dimension",
     "pause-before-choice",
     "exception-collector",
-    "mixed-operation-relay"
+    "mixed-operation-relay",
+    "strategy-reset"
   ],
   "banner": [
     "window-watch",
