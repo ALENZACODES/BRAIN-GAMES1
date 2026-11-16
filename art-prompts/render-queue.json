@@ -138,5 +138,10 @@
     "id": "memory-arithmetic",
     "kind": "banner",
     "blob_sha": "4b949d3234856adb7d75e54d4925b8402f0e28fa"
+  },
+  {
+    "id": "interrupted-sequence",
+    "kind": "poster",
+    "blob_sha": "390e3962f9ea9963c34419220751948f467182f3"
   }
 ]
