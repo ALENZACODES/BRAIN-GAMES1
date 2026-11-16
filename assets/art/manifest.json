@@ -54,7 +54,8 @@
     "feature-binding",
     "name-garden",
     "object-place-museum",
-    "story-anchors"
+    "story-anchors",
+    "vocabulary-voyage"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
