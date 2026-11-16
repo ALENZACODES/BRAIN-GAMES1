@@ -733,5 +733,10 @@
     "id": "mixed-operation-relay",
     "kind": "poster",
     "blob_sha": "98ae3f485f2f8623965c4bbc89dd0b8b76f8793c"
+  },
+  {
+    "id": "mixed-operation-relay",
+    "kind": "banner",
+    "blob_sha": "31b715f0db21eb0a36c21b3689ae7e526660d746"
   }
 ]
