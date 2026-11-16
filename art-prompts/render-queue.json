@@ -838,5 +838,10 @@
     "id": "same-meaning",
     "kind": "banner",
     "blob_sha": "475fa08e7b7aa2831d4f42e29e95ff2fe7282d92"
+  },
+  {
+    "id": "pattern-passport",
+    "kind": "poster",
+    "blob_sha": "3560ab9e2c87a737c2068b1de6bd1c47bd0f672e"
   }
 ]
