@@ -160,7 +160,8 @@
     "change-the-sorting-law",
     "relevant-dimension",
     "pause-before-choice",
-    "exception-collector"
+    "exception-collector",
+    "mixed-operation-relay"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
