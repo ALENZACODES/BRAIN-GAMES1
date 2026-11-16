@@ -97,7 +97,8 @@
     "order-check",
     "sound-pair-check",
     "orientation-check",
-    "fraction-flash"
+    "fraction-flash",
+    "duplicate-detector"
   ],
   "banner": [
     "window-watch",
@@ -197,7 +198,8 @@
     "order-check",
     "sound-pair-check",
     "orientation-check",
-    "fraction-flash"
+    "fraction-flash",
+    "duplicate-detector"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
