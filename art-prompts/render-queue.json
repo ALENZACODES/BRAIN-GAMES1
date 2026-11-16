@@ -193,5 +193,10 @@
     "id": "story-anchors",
     "kind": "poster",
     "blob_sha": "6027f2d2aabfec19c074b17f584fad0f54b9fc58"
+  },
+  {
+    "id": "story-anchors",
+    "kind": "banner",
+    "blob_sha": "56f3d82fcbc67550f216498bee902529eaad266d"
   }
 ]
