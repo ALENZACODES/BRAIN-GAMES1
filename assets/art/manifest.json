@@ -166,7 +166,8 @@
     "exception-collector",
     "mixed-operation-relay",
     "strategy-reset",
-    "undo-the-habit"
+    "undo-the-habit",
+    "symbol-twins"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
