@@ -64,7 +64,8 @@
     "moving-reading-window",
     "focus-recovery",
     "go-hold-garden",
-    "stop-the-delivery"
+    "stop-the-delivery",
+    "rule-switch-station"
   ],
   "banner": [
     "window-watch",
