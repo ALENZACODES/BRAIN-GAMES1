@@ -808,5 +808,10 @@
     "id": "matching-stream",
     "kind": "banner",
     "blob_sha": "4981eb58771f132ff154e251c8563be345e92432"
+  },
+  {
+    "id": "letter-locator",
+    "kind": "poster",
+    "blob_sha": "9e4fc4fcb55935fb9f2fa9969f1da28d8d92d077"
   }
 ]
