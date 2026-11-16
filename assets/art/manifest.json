@@ -70,7 +70,8 @@
     "recipe-recall",
     "yesterday-s-board",
     "fact-ladder",
-    "sound-signature"
+    "sound-signature",
+    "face-detail-match"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
