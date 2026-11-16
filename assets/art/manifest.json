@@ -31,7 +31,8 @@
     "landmark-return",
     "pair-builder",
     "recipe-recall",
-    "yesterday-s-board"
+    "yesterday-s-board",
+    "fact-ladder"
   ],
   "banner": [
     "window-watch",
