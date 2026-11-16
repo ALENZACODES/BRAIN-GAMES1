@@ -903,5 +903,10 @@
     "id": "orientation-check",
     "kind": "poster",
     "blob_sha": "c34e1d351dd848154624a150258795550eb620b2"
+  },
+  {
+    "id": "orientation-check",
+    "kind": "banner",
+    "blob_sha": "6bd3017893802cb82ae1eb36c256e9a63bb1d615"
   }
 ]
