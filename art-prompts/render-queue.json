@@ -313,5 +313,10 @@
     "id": "timeline-traveller",
     "kind": "poster",
     "blob_sha": "e5aff33302013ae29886d9ceaf1c9fe8d16bcf50"
+  },
+  {
+    "id": "timeline-traveller",
+    "kind": "banner",
+    "blob_sha": "0aeae766b0cf71857b19e1b9349492d7fa8acde6"
   }
 ]
