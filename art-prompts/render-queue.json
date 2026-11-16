@@ -133,5 +133,10 @@
     "id": "memory-arithmetic",
     "kind": "poster",
     "blob_sha": "1b22a279bdaf92a6177fd126d92234d8474af62f"
+  },
+  {
+    "id": "memory-arithmetic",
+    "kind": "banner",
+    "blob_sha": "4b949d3234856adb7d75e54d4925b8402f0e28fa"
   }
 ]
