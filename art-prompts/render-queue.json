@@ -283,5 +283,10 @@
     "id": "face-detail-match",
     "kind": "poster",
     "blob_sha": "2f25d570c95ff50cb2f36429a2f90d45fef79e78"
+  },
+  {
+    "id": "face-detail-match",
+    "kind": "banner",
+    "blob_sha": "0cbce0b5041a4c33b4af54454dc51050d207feb0"
   }
 ]
