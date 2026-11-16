@@ -373,5 +373,10 @@
     "id": "target-harbour",
     "kind": "poster",
     "blob_sha": "ee56be1e95f45d408aa2f473019a83d9e1e7621b"
+  },
+  {
+    "id": "target-harbour",
+    "kind": "banner",
+    "blob_sha": "20daf0432296bd2967551dcc5361021e11054e25"
   }
 ]
