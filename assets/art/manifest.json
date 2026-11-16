@@ -76,7 +76,8 @@
     "sound-signature",
     "face-detail-match",
     "category-hooks",
-    "forgotten-item-rescue"
+    "forgotten-item-rescue",
+    "timeline-traveller"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
