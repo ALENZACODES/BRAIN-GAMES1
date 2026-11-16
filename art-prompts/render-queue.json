@@ -703,5 +703,10 @@
     "id": "relevant-dimension",
     "kind": "poster",
     "blob_sha": "91d6ff1bac96b41422ac6036b8d676b07e78de4f"
+  },
+  {
+    "id": "relevant-dimension",
+    "kind": "banner",
+    "blob_sha": "6279b7a9e0d3c2d2b79b4c404b00d9a45abaf52e"
   }
 ]
