@@ -613,5 +613,10 @@
     "id": "day-night-signals",
     "kind": "poster",
     "blob_sha": "c60d943f9e4a063b2778bd9a6e8f978c3e1b7127"
+  },
+  {
+    "id": "day-night-signals",
+    "kind": "banner",
+    "blob_sha": "415a3b79b7c1ef1e37cd907795681afead88ca9f"
   }
 ]
