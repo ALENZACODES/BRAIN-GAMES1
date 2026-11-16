@@ -132,7 +132,8 @@
     "moving-reading-window",
     "focus-recovery",
     "go-hold-garden",
-    "stop-the-delivery"
+    "stop-the-delivery",
+    "rule-switch-station"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
