@@ -2,7 +2,8 @@
   "poster": [
     "window-watch",
     "echo-grid",
-    "two-back-orchard"
+    "two-back-orchard",
+    "ink-interpreter"
   ],
   "banner": [
     "window-watch",
