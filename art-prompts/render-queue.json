@@ -348,5 +348,10 @@
     "id": "detail-detective",
     "kind": "banner",
     "blob_sha": "76ad900314a2e2dfc5a8fe1eda984791a7aa5d96"
+  },
+  {
+    "id": "learn-teach-cards",
+    "kind": "poster",
+    "blob_sha": "934df4b70b441540f8b9fd0dbb8b20242e3fe29b"
   }
 ]
