@@ -928,5 +928,10 @@
     "id": "duplicate-detector",
     "kind": "banner",
     "blob_sha": "4181de01b9d2fd5de6e881ba343ae5abc7eba977"
+  },
+  {
+    "id": "accuracy-pacekeeper",
+    "kind": "poster",
+    "blob_sha": "f21d9c836003d0187ee6cb617837d506ac31f182"
   }
 ]
