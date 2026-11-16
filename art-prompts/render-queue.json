@@ -663,5 +663,10 @@
     "id": "mirror-controls",
     "kind": "poster",
     "blob_sha": "e0871f08d6f80accd5214bd98e3be87ee7083dd7"
+  },
+  {
+    "id": "mirror-controls",
+    "kind": "banner",
+    "blob_sha": "e18b57c704cdf5acd4ee7df01c5c89e4c6dcca55"
   }
 ]
