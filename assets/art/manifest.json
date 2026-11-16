@@ -176,7 +176,8 @@
     "code-key",
     "bigger-value",
     "rapid-category",
-    "matching-stream"
+    "matching-stream",
+    "letter-locator"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
