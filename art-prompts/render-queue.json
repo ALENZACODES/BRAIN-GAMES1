@@ -298,5 +298,10 @@
     "id": "category-hooks",
     "kind": "banner",
     "blob_sha": "0ffc80f9f1f5e3a078732a2c2c5eaeb949a30938"
+  },
+  {
+    "id": "forgotten-item-rescue",
+    "kind": "poster",
+    "blob_sha": "298559cd4d04d8c29b56a3ada8eda5a4369155d5"
   }
 ]
