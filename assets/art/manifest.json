@@ -30,7 +30,8 @@
     "symbol-dictionary",
     "landmark-return",
     "pair-builder",
-    "recipe-recall"
+    "recipe-recall",
+    "yesterday-s-board"
   ],
   "banner": [
     "window-watch",
