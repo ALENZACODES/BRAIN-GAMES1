@@ -753,5 +753,10 @@
     "id": "undo-the-habit",
     "kind": "poster",
     "blob_sha": "28153b26ab16c0962f233b78b4f4a030d1c73d5b"
+  },
+  {
+    "id": "undo-the-habit",
+    "kind": "banner",
+    "blob_sha": "834f5f3ef35856c37c0b8a53e93d05d3daab2c2d"
   }
 ]
