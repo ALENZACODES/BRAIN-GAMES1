@@ -468,5 +468,10 @@
     "id": "odd-rhythm",
     "kind": "banner",
     "blob_sha": "19654e663325c3e18a480746c9ba52177be8a9f0"
+  },
+  {
+    "id": "peripheral-locator",
+    "kind": "poster",
+    "blob_sha": "01e3afdf3abbfa1ba9ddf063a96ceaa5d1efa484"
   }
 ]
