@@ -30,7 +30,8 @@
     "colour-ledger",
     "running-balance",
     "shape-sound-pairs",
-    "pocket-inventory"
+    "pocket-inventory",
+    "number-letter-mixer"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
