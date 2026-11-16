@@ -21,7 +21,8 @@
     "seat-planner",
     "memory-arithmetic",
     "interrupted-sequence",
-    "direction-stack"
+    "direction-stack",
+    "feature-binding"
   ],
   "banner": [
     "window-watch",
