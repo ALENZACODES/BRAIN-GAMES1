@@ -17,7 +17,8 @@
     "number-letter-mixer",
     "moving-shelves",
     "message-relay",
-    "pattern-extension"
+    "pattern-extension",
+    "seat-planner"
   ],
   "banner": [
     "window-watch",
