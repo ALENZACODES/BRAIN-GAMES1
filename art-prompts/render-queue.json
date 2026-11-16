@@ -38,5 +38,10 @@
     "id": "last-three",
     "kind": "banner",
     "blob_sha": "7220f0ab6967db403019bb5b2e9ea5d1e9b8267b"
+  },
+  {
+    "id": "colour-ledger",
+    "kind": "poster",
+    "blob_sha": "218feb4c77d115ac1a04ec4570cae4aa62f61693"
   }
 ]
