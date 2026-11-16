@@ -48,5 +48,10 @@
     "id": "colour-ledger",
     "kind": "banner",
     "blob_sha": "1e12ba916009dc7ab8ab9a2f28f4828d7112c62a"
+  },
+  {
+    "id": "running-balance",
+    "kind": "poster",
+    "blob_sha": "32695e793e664e7771beea28112921156605be5d"
   }
 ]
