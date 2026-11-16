@@ -223,5 +223,10 @@
     "id": "landmark-return",
     "kind": "poster",
     "blob_sha": "ab8d8f3b83934c991329fa9a9f60c0000855ff6f"
+  },
+  {
+    "id": "landmark-return",
+    "kind": "banner",
+    "blob_sha": "03692dc58e2f441ab97d903e576ce17851e713b7"
   }
 ]
