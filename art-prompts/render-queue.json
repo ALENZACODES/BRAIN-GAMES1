@@ -738,5 +738,10 @@
     "id": "mixed-operation-relay",
     "kind": "banner",
     "blob_sha": "31b715f0db21eb0a36c21b3689ae7e526660d746"
+  },
+  {
+    "id": "strategy-reset",
+    "kind": "poster",
+    "blob_sha": "e95968ee1cae1761890825cf0aafc383f55bc5a6"
   }
 ]
