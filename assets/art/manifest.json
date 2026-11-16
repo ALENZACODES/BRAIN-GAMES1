@@ -92,7 +92,8 @@
     "learn-teach-cards",
     "memory-confidence",
     "target-harbour",
-    "central-arrow"
+    "central-arrow",
+    "quiet-signal"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
