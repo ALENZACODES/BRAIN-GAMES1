@@ -63,7 +63,8 @@
     "alert-or-routine",
     "moving-reading-window",
     "focus-recovery",
-    "go-hold-garden"
+    "go-hold-garden",
+    "stop-the-delivery"
   ],
   "banner": [
     "window-watch",
