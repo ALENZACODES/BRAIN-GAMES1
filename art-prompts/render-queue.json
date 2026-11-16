@@ -593,5 +593,10 @@
     "id": "rule-switch-station",
     "kind": "poster",
     "blob_sha": "24aa70432b1f301f4c99f29727018df5d605ef4f"
+  },
+  {
+    "id": "rule-switch-station",
+    "kind": "banner",
+    "blob_sha": "2adab206a094dbde9caac8ee6d4471ca203f0de5"
   }
 ]
