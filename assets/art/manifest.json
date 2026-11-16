@@ -74,7 +74,8 @@
     "keep-or-discard",
     "mirror-controls",
     "question-switch",
-    "forbidden-number"
+    "forbidden-number",
+    "change-the-sorting-law"
   ],
   "banner": [
     "window-watch",
