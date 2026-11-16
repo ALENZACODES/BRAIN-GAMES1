@@ -208,5 +208,10 @@
     "id": "vocabulary-voyage",
     "kind": "banner",
     "blob_sha": "998a553bf7a15841322a16b37bf7aefe39808d8d"
+  },
+  {
+    "id": "symbol-dictionary",
+    "kind": "poster",
+    "blob_sha": "8d8a33c75c92967dae658fd4423129de6e7ea9c2"
   }
 ]
