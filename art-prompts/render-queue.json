@@ -423,5 +423,10 @@
     "id": "pattern-search",
     "kind": "poster",
     "blob_sha": "a9b61d50d266d4ed9969b4c44618f6663aaeb910"
+  },
+  {
+    "id": "pattern-search",
+    "kind": "banner",
+    "blob_sha": "8eb2b6e937fe3f94d73eaa585fe2e88449d5bb1b"
   }
 ]
