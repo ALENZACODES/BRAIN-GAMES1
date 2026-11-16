@@ -323,5 +323,10 @@
     "id": "rule-recall",
     "kind": "poster",
     "blob_sha": "0d79f6b4543a6ccbfd295e78a2f0f4e4c3b29227"
+  },
+  {
+    "id": "rule-recall",
+    "kind": "banner",
+    "blob_sha": "386183884db267c02b8a87d1bd73b84278503794"
   }
 ]
