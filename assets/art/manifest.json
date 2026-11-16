@@ -77,7 +77,8 @@
     "forbidden-number",
     "change-the-sorting-law",
     "relevant-dimension",
-    "pause-before-choice"
+    "pause-before-choice",
+    "exception-collector"
   ],
   "banner": [
     "window-watch",
