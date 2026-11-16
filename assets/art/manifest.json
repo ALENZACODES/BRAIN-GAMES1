@@ -73,7 +73,8 @@
     "reverse-sort",
     "keep-or-discard",
     "mirror-controls",
-    "question-switch"
+    "question-switch",
+    "forbidden-number"
   ],
   "banner": [
     "window-watch",
