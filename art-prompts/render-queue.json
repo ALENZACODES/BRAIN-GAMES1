@@ -328,5 +328,10 @@
     "id": "rule-recall",
     "kind": "banner",
     "blob_sha": "386183884db267c02b8a87d1bd73b84278503794"
+  },
+  {
+    "id": "password-palace",
+    "kind": "poster",
+    "blob_sha": "87447bcb52a4a6b5326296e91dd871c0c3c12892"
   }
 ]
