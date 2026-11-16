@@ -158,5 +158,10 @@
     "id": "direction-stack",
     "kind": "banner",
     "blob_sha": "a9daddf8365e9be5867ce8649f1d93a6e86dc1d1"
+  },
+  {
+    "id": "feature-binding",
+    "kind": "poster",
+    "blob_sha": "5b7c7a8f021d12bc2db2238e451fd788f96095e4"
   }
 ]
