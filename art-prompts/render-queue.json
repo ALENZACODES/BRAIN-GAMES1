@@ -548,5 +548,10 @@
     "id": "alert-or-routine",
     "kind": "banner",
     "blob_sha": "bc5b8169d333666353e9c4bab511c6140d4e33d7"
+  },
+  {
+    "id": "moving-reading-window",
+    "kind": "poster",
+    "blob_sha": "43fd137bca386e1e20eedb7de4b0930415f74569"
   }
 ]
