@@ -563,5 +563,10 @@
     "id": "focus-recovery",
     "kind": "poster",
     "blob_sha": "2c8e659f3462ccfc2de28a437eb5b079838f2b14"
+  },
+  {
+    "id": "focus-recovery",
+    "kind": "banner",
+    "blob_sha": "5aeeb8f8954558e7de0186da382f20a1e180dcbf"
   }
 ]
