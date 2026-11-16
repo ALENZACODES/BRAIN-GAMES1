@@ -478,5 +478,10 @@
     "id": "peripheral-locator",
     "kind": "banner",
     "blob_sha": "349564e12f942ade48a030ce2a6abac80970834c"
+  },
+  {
+    "id": "proofreader-s-desk",
+    "kind": "poster",
+    "blob_sha": "b8a6ad6d89386b3928414b9247bf59d7406f9c9e"
   }
 ]
