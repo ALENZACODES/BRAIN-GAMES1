@@ -883,5 +883,10 @@
     "id": "order-check",
     "kind": "poster",
     "blob_sha": "4d333f72320c831e700e3c636ff0f0bd1ed6b71a"
+  },
+  {
+    "id": "order-check",
+    "kind": "banner",
+    "blob_sha": "8992ec1ec45a8936ca4c5b80112456114458ed90"
   }
 ]
