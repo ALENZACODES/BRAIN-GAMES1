@@ -18,7 +18,8 @@
     "moving-shelves",
     "message-relay",
     "pattern-extension",
-    "seat-planner"
+    "seat-planner",
+    "memory-arithmetic"
   ],
   "banner": [
     "window-watch",
