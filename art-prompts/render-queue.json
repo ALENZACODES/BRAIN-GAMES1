@@ -268,5 +268,10 @@
     "id": "fact-ladder",
     "kind": "banner",
     "blob_sha": "ab85a4e3d7231d7785b4a05ee1074a298118cd54"
+  },
+  {
+    "id": "sound-signature",
+    "kind": "poster",
+    "blob_sha": "d56b73402aa42541ed6cfead85520dbe7c6137c0"
   }
 ]
