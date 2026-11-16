@@ -60,7 +60,8 @@
     "search-without-repeating",
     "conversation-filter",
     "target-count",
-    "alert-or-routine"
+    "alert-or-routine",
+    "moving-reading-window"
   ],
   "banner": [
     "window-watch",
