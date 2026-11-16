@@ -75,7 +75,8 @@
     "mirror-controls",
     "question-switch",
     "forbidden-number",
-    "change-the-sorting-law"
+    "change-the-sorting-law",
+    "relevant-dimension"
   ],
   "banner": [
     "window-watch",
