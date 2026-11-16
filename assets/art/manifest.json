@@ -140,7 +140,8 @@
     "rule-switch-station",
     "opposite-compass",
     "day-night-signals",
-    "category-flip"
+    "category-flip",
+    "traffic-exception"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
