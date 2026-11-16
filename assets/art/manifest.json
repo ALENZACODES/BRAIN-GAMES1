@@ -72,7 +72,8 @@
     "traffic-exception",
     "reverse-sort",
     "keep-or-discard",
-    "mirror-controls"
+    "mirror-controls",
+    "question-switch"
   ],
   "banner": [
     "window-watch",
