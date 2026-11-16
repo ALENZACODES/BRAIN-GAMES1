@@ -192,7 +192,8 @@
     "route-flash",
     "word-picture-match",
     "missing-piece-sprint",
-    "order-check"
+    "order-check",
+    "sound-pair-check"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
