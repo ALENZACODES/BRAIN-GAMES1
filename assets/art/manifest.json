@@ -57,7 +57,8 @@
     "proofreader-s-desk",
     "feature-intersection",
     "signal-queue",
-    "search-without-repeating"
+    "search-without-repeating",
+    "conversation-filter"
   ],
   "banner": [
     "window-watch",
