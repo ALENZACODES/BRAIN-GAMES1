@@ -73,5 +73,10 @@
     "id": "pocket-inventory",
     "kind": "poster",
     "blob_sha": "ca0341d4604f64f83e32fc5d98108af788f34eca"
+  },
+  {
+    "id": "pocket-inventory",
+    "kind": "banner",
+    "blob_sha": "2a07028da90aa8f44b966379d027476950357527"
   }
 ]
