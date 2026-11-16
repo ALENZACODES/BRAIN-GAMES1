@@ -69,7 +69,8 @@
     "opposite-compass",
     "day-night-signals",
     "category-flip",
-    "traffic-exception"
+    "traffic-exception",
+    "reverse-sort"
   ],
   "banner": [
     "window-watch",
