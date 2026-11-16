@@ -154,7 +154,8 @@
     "mirror-controls",
     "question-switch",
     "forbidden-number",
-    "change-the-sorting-law"
+    "change-the-sorting-law",
+    "relevant-dimension"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
