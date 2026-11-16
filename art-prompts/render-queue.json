@@ -188,5 +188,10 @@
     "id": "object-place-museum",
     "kind": "banner",
     "blob_sha": "40103a09a0fc2225fd3f3b86d614b57db9c16f31"
+  },
+  {
+    "id": "story-anchors",
+    "kind": "poster",
+    "blob_sha": "6027f2d2aabfec19c074b17f584fad0f54b9fc58"
   }
 ]
