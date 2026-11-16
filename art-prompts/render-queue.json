@@ -393,5 +393,10 @@
     "id": "quiet-signal",
     "kind": "poster",
     "blob_sha": "adc273b1eabfc80a2fcbf29e0f84afe8e66e1253"
+  },
+  {
+    "id": "quiet-signal",
+    "kind": "banner",
+    "blob_sha": "d21a14eddd89449b469c6670d5e921a91add17f6"
   }
 ]
