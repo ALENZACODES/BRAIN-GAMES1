@@ -523,5 +523,10 @@
     "id": "conversation-filter",
     "kind": "poster",
     "blob_sha": "28cc16c3f16d1691f12b512976a5536ebdaa2b5b"
+  },
+  {
+    "id": "conversation-filter",
+    "kind": "banner",
+    "blob_sha": "3fe7e8a7dde7f0fb8392d814b1146a9628590c6a"
   }
 ]
