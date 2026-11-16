@@ -64,7 +64,8 @@
     "symbol-dictionary",
     "landmark-return",
     "pair-builder",
-    "recipe-recall"
+    "recipe-recall",
+    "yesterday-s-board"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
