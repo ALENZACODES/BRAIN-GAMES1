@@ -443,5 +443,10 @@
     "id": "dual-watch",
     "kind": "poster",
     "blob_sha": "51097fff03ec9fafe6536d48028980c9a35ed172"
+  },
+  {
+    "id": "dual-watch",
+    "kind": "banner",
+    "blob_sha": "493581250720162413c7e48e94330294405a0231"
   }
 ]
