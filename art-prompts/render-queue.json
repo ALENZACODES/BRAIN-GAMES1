@@ -918,5 +918,10 @@
     "id": "fraction-flash",
     "kind": "banner",
     "blob_sha": "8d773b3788b560698cbfce763a4c839a2b284793"
+  },
+  {
+    "id": "duplicate-detector",
+    "kind": "poster",
+    "blob_sha": "9a50b34255678b16754c4126cc23388d833e692a"
   }
 ]
