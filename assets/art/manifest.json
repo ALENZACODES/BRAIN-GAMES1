@@ -34,7 +34,8 @@
     "yesterday-s-board",
     "fact-ladder",
     "sound-signature",
-    "face-detail-match"
+    "face-detail-match",
+    "category-hooks"
   ],
   "banner": [
     "window-watch",
