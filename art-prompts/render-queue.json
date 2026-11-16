@@ -128,5 +128,10 @@
     "id": "seat-planner",
     "kind": "banner",
     "blob_sha": "13650a6a4ee5b918a9b6cd8703f85e0dc788762b"
+  },
+  {
+    "id": "memory-arithmetic",
+    "kind": "poster",
+    "blob_sha": "1b22a279bdaf92a6177fd126d92234d8474af62f"
   }
 ]
