@@ -150,7 +150,8 @@
     "reverse-sort",
     "keep-or-discard",
     "mirror-controls",
-    "question-switch"
+    "question-switch",
+    "forbidden-number"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
