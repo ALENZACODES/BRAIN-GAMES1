@@ -583,5 +583,10 @@
     "id": "stop-the-delivery",
     "kind": "poster",
     "blob_sha": "6c0fd740dddb2ec7dd28545bfa71b39f655e7f90"
+  },
+  {
+    "id": "stop-the-delivery",
+    "kind": "banner",
+    "blob_sha": "8ee28758503bdd01c3fd1f5509e9296dee4473f7"
   }
 ]
