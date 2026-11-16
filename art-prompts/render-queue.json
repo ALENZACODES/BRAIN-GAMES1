@@ -233,5 +233,10 @@
     "id": "pair-builder",
     "kind": "poster",
     "blob_sha": "a46f96cfc4fd12af44eae679a5fcb272d95457f3"
+  },
+  {
+    "id": "pair-builder",
+    "kind": "banner",
+    "blob_sha": "f5c7b667918ac5f3381882378cc5b05b462def52"
   }
 ]
