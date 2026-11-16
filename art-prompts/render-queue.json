@@ -53,5 +53,10 @@
     "id": "running-balance",
     "kind": "poster",
     "blob_sha": "32695e793e664e7771beea28112921156605be5d"
+  },
+  {
+    "id": "running-balance",
+    "kind": "banner",
+    "blob_sha": "f9244b4bbfe04748103ab0335ee922e3b24dbcbb"
   }
 ]
