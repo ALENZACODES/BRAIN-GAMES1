@@ -388,5 +388,10 @@
     "id": "central-arrow",
     "kind": "banner",
     "blob_sha": "47452fcc4038929a64ba1c52b7f0166bcd0745d7"
+  },
+  {
+    "id": "quiet-signal",
+    "kind": "poster",
+    "blob_sha": "adc273b1eabfc80a2fcbf29e0f84afe8e66e1253"
   }
 ]
