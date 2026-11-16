@@ -453,5 +453,10 @@
     "id": "relevant-detail",
     "kind": "poster",
     "blob_sha": "1a3646ea719b9ef92587ce85ae264fe922fb1c37"
+  },
+  {
+    "id": "relevant-detail",
+    "kind": "banner",
+    "blob_sha": "f63329dc3fd7a782194c72eea47763d52771e4fb"
   }
 ]
