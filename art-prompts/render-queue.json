@@ -173,5 +173,10 @@
     "id": "name-garden",
     "kind": "poster",
     "blob_sha": "cab8e55db24d10d3824ebb9ad5218728356aeaac"
+  },
+  {
+    "id": "name-garden",
+    "kind": "banner",
+    "blob_sha": "701e116fdf7a96182715985f003706de6555d28d"
   }
 ]
