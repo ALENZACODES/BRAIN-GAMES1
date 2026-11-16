@@ -433,5 +433,10 @@
     "id": "sound-sentinel",
     "kind": "poster",
     "blob_sha": "bb48b4968efa38c7812ecaf5f9e1202ac4ec8a3a"
+  },
+  {
+    "id": "sound-sentinel",
+    "kind": "banner",
+    "blob_sha": "a7e06e8603f5506b47b0e877c5cbda2eecd605fc"
   }
 ]
