@@ -168,7 +168,8 @@
     "mixed-operation-relay",
     "strategy-reset",
     "undo-the-habit",
-    "symbol-twins"
+    "symbol-twins",
+    "code-key"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
