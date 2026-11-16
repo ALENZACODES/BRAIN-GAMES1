@@ -15,7 +15,8 @@
     "shape-sound-pairs",
     "pocket-inventory",
     "number-letter-mixer",
-    "moving-shelves"
+    "moving-shelves",
+    "message-relay"
   ],
   "banner": [
     "window-watch",
