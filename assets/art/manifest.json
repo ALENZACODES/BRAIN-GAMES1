@@ -174,7 +174,8 @@
     "symbol-twins",
     "code-key",
     "bigger-value",
-    "rapid-category"
+    "rapid-category",
+    "matching-stream"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
