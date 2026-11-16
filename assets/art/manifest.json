@@ -35,7 +35,8 @@
     "fact-ladder",
     "sound-signature",
     "face-detail-match",
-    "category-hooks"
+    "category-hooks",
+    "forgotten-item-rescue"
   ],
   "banner": [
     "window-watch",
