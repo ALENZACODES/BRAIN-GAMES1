@@ -70,7 +70,8 @@
     "day-night-signals",
     "category-flip",
     "traffic-exception",
-    "reverse-sort"
+    "reverse-sort",
+    "keep-or-discard"
   ],
   "banner": [
     "window-watch",
