@@ -28,7 +28,8 @@
     "last-three",
     "colour-ledger",
     "running-balance",
-    "shape-sound-pairs"
+    "shape-sound-pairs",
+    "pocket-inventory"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
