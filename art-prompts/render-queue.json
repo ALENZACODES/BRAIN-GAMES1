@@ -793,5 +793,10 @@
     "id": "rapid-category",
     "kind": "poster",
     "blob_sha": "4c36a4575a4c3a45414b4ef895a8a7a671d615ca"
+  },
+  {
+    "id": "rapid-category",
+    "kind": "banner",
+    "blob_sha": "541c4c0d1c61b732d39578cb2fade67426af6fe7"
   }
 ]
