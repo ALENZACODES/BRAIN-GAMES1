@@ -108,5 +108,10 @@
     "id": "message-relay",
     "kind": "banner",
     "blob_sha": "d4de5989413e4b3192a4c5a3303185c4ba920533"
+  },
+  {
+    "id": "pattern-extension",
+    "kind": "poster",
+    "blob_sha": "c24c054aa0476e208131c747cc8a49abb736d64f"
   }
 ]
