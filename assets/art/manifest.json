@@ -68,7 +68,8 @@
     "pair-builder",
     "recipe-recall",
     "yesterday-s-board",
-    "fact-ladder"
+    "fact-ladder",
+    "sound-signature"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
