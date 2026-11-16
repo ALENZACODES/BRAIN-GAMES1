@@ -643,5 +643,10 @@
     "id": "reverse-sort",
     "kind": "poster",
     "blob_sha": "e6abc6cfd081dee0f0b2b102ce9d7dcd3eaaf56a"
+  },
+  {
+    "id": "reverse-sort",
+    "kind": "banner",
+    "blob_sha": "f046eb87eb69bffa3bc6652e1a99063c6beb3bab"
   }
 ]
