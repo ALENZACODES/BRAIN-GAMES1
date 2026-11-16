@@ -82,7 +82,8 @@
     "forgotten-item-rescue",
     "timeline-traveller",
     "rule-recall",
-    "password-palace"
+    "password-palace",
+    "detail-detective"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
