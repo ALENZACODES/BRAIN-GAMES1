@@ -908,5 +908,10 @@
     "id": "orientation-check",
     "kind": "banner",
     "blob_sha": "6bd3017893802cb82ae1eb36c256e9a63bb1d615"
+  },
+  {
+    "id": "fraction-flash",
+    "kind": "poster",
+    "blob_sha": "024d65ebea6f6ef4ef93a869cec444ebda093772"
   }
 ]
