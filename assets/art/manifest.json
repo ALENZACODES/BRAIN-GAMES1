@@ -128,7 +128,8 @@
     "target-count",
     "alert-or-routine",
     "moving-reading-window",
-    "focus-recovery"
+    "focus-recovery",
+    "go-hold-garden"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
