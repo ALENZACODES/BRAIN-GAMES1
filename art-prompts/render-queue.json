@@ -8,5 +8,10 @@
     "id": "parcel-sequence",
     "kind": "banner",
     "blob_sha": "4c23da29666ed2beaba0ca9fa284e997e830f458"
+  },
+  {
+    "id": "reverse-radio",
+    "kind": "poster",
+    "blob_sha": "0bf4f65578097fe24ef620eaf686964289f5530c"
   }
 ]
