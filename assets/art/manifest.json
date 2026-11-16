@@ -42,7 +42,8 @@
     "message-relay",
     "pattern-extension",
     "seat-planner",
-    "memory-arithmetic"
+    "memory-arithmetic",
+    "interrupted-sequence"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
