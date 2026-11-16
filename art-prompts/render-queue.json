@@ -848,5 +848,10 @@
     "id": "pattern-passport",
     "kind": "banner",
     "blob_sha": "46834613973e0c4011f1f76171d9a6a9a2364264"
+  },
+  {
+    "id": "route-flash",
+    "kind": "poster",
+    "blob_sha": "3c451c82359e1cc4cb4309cff4aef707d9ee7b64"
   }
 ]
