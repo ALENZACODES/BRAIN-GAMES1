@@ -78,5 +78,10 @@
     "id": "pocket-inventory",
     "kind": "banner",
     "blob_sha": "2a07028da90aa8f44b966379d027476950357527"
+  },
+  {
+    "id": "number-letter-mixer",
+    "kind": "poster",
+    "blob_sha": "e47dde8d89da437e78b5d48831492fb669d409d2"
   }
 ]
