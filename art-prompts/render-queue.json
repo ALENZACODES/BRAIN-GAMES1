@@ -18,5 +18,10 @@
     "id": "reverse-radio",
     "kind": "banner",
     "blob_sha": "e501656890af9cb8bc30108c4de8c61a17d06648"
+  },
+  {
+    "id": "caf-orders",
+    "kind": "poster",
+    "blob_sha": "e5a9ee03a78ffafc67b7cca017ab65f400a3ea85"
   }
 ]
