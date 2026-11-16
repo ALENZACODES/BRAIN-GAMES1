@@ -20,7 +20,8 @@
     "pattern-extension",
     "seat-planner",
     "memory-arithmetic",
-    "interrupted-sequence"
+    "interrupted-sequence",
+    "direction-stack"
   ],
   "banner": [
     "window-watch",
