@@ -558,5 +558,10 @@
     "id": "moving-reading-window",
     "kind": "banner",
     "blob_sha": "99ea30349345ba598e8e65f3bb15804de894b36f"
+  },
+  {
+    "id": "focus-recovery",
+    "kind": "poster",
+    "blob_sha": "2c8e659f3462ccfc2de28a437eb5b079838f2b14"
   }
 ]
