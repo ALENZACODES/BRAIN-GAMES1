@@ -26,7 +26,8 @@
     "caf-orders",
     "last-three",
     "colour-ledger",
-    "running-balance"
+    "running-balance",
+    "shape-sound-pairs"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
