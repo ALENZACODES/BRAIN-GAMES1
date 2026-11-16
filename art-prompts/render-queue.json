@@ -183,5 +183,10 @@
     "id": "object-place-museum",
     "kind": "poster",
     "blob_sha": "636087da60a322b5b841e947d524596574e1b3fa"
+  },
+  {
+    "id": "object-place-museum",
+    "kind": "banner",
+    "blob_sha": "40103a09a0fc2225fd3f3b86d614b57db9c16f31"
   }
 ]
