@@ -61,7 +61,8 @@
     "conversation-filter",
     "target-count",
     "alert-or-routine",
-    "moving-reading-window"
+    "moving-reading-window",
+    "focus-recovery"
   ],
   "banner": [
     "window-watch",
