@@ -1,0 +1,1211 @@
+{
+  "complete": true,
+  "expected_images": 200,
+  "validated_images": 200,
+  "missing": {
+    "poster": [],
+    "banner": []
+  },
+  "files": [
+    {
+      "file": "window-watch.webp",
+      "bytes": 98200,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "echo-grid.webp",
+      "bytes": 79312,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "two-back-orchard.webp",
+      "bytes": 90854,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "ink-interpreter.webp",
+      "bytes": 121578,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "one-different.webp",
+      "bytes": 75324,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "rapid-equation-check.webp",
+      "bytes": 98000,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "parcel-sequence.webp",
+      "bytes": 111036,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "reverse-radio.webp",
+      "bytes": 109466,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "cafe-orders.webp",
+      "bytes": 103534,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "last-three.webp",
+      "bytes": 105806,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "colour-ledger.webp",
+      "bytes": 85398,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "running-balance.webp",
+      "bytes": 94548,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "shapesound-pairs.webp",
+      "bytes": 106534,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pocket-inventory.webp",
+      "bytes": 147404,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "numberletter-mixer.webp",
+      "bytes": 89456,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "moving-shelves.webp",
+      "bytes": 95458,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "message-relay.webp",
+      "bytes": 102404,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pattern-extension.webp",
+      "bytes": 81602,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "seat-planner.webp",
+      "bytes": 152382,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "memory-arithmetic.webp",
+      "bytes": 107948,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "interrupted-sequence.webp",
+      "bytes": 75648,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "direction-stack.webp",
+      "bytes": 108808,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "feature-binding.webp",
+      "bytes": 117032,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "name-garden.webp",
+      "bytes": 123474,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "objectplace-museum.webp",
+      "bytes": 127410,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "story-anchors.webp",
+      "bytes": 102538,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "vocabulary-voyage.webp",
+      "bytes": 115690,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "symbol-dictionary.webp",
+      "bytes": 96674,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "landmark-return.webp",
+      "bytes": 134750,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pair-builder.webp",
+      "bytes": 78880,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "recipe-recall.webp",
+      "bytes": 105934,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "yesterdays-board.webp",
+      "bytes": 98224,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "fact-ladder.webp",
+      "bytes": 110848,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "sound-signature.webp",
+      "bytes": 78958,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "facedetail-match.webp",
+      "bytes": 100170,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "category-hooks.webp",
+      "bytes": 103734,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "forgotten-item-rescue.webp",
+      "bytes": 111830,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "timeline-traveller.webp",
+      "bytes": 115506,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "rule-recall.webp",
+      "bytes": 128636,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "password-palace.webp",
+      "bytes": 132856,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "detail-detective.webp",
+      "bytes": 100432,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "learnteach-cards.webp",
+      "bytes": 85098,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "memory-confidence.webp",
+      "bytes": 97604,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "target-harbour.webp",
+      "bytes": 117490,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "central-arrow.webp",
+      "bytes": 81680,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "quiet-signal.webp",
+      "bytes": 115508,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "changing-shopfront.webp",
+      "bytes": 152478,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "multiple-object-tracker.webp",
+      "bytes": 84624,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pattern-search.webp",
+      "bytes": 83578,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "sound-sentinel.webp",
+      "bytes": 130002,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "dual-watch.webp",
+      "bytes": 111268,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "relevant-detail.webp",
+      "bytes": 111054,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "odd-rhythm.webp",
+      "bytes": 62516,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "peripheral-locator.webp",
+      "bytes": 88802,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "proofreaders-desk.webp",
+      "bytes": 107664,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "feature-intersection.webp",
+      "bytes": 92972,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "signal-queue.webp",
+      "bytes": 106732,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "search-without-repeating.webp",
+      "bytes": 121126,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "conversation-filter.webp",
+      "bytes": 66770,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "target-count.webp",
+      "bytes": 107138,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "alert-or-routine.webp",
+      "bytes": 96496,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "moving-reading-window.webp",
+      "bytes": 112552,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "focus-recovery.webp",
+      "bytes": 90630,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "gohold-garden.webp",
+      "bytes": 101116,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "stop-the-delivery.webp",
+      "bytes": 112084,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "rule-switch-station.webp",
+      "bytes": 88088,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "opposite-compass.webp",
+      "bytes": 105326,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "daynight-signals.webp",
+      "bytes": 102184,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "category-flip.webp",
+      "bytes": 94954,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "traffic-exception.webp",
+      "bytes": 116718,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "reverse-sort.webp",
+      "bytes": 80660,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "keep-or-discard.webp",
+      "bytes": 126084,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "mirror-controls.webp",
+      "bytes": 106810,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "question-switch.webp",
+      "bytes": 84266,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "forbidden-number.webp",
+      "bytes": 101280,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "change-the-sorting-law.webp",
+      "bytes": 78926,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "relevant-dimension.webp",
+      "bytes": 92376,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pause-before-choice.webp",
+      "bytes": 96428,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "exception-collector.webp",
+      "bytes": 77170,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "mixed-operation-relay.webp",
+      "bytes": 110202,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "strategy-reset.webp",
+      "bytes": 93794,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "undo-the-habit.webp",
+      "bytes": 103772,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "symbol-twins.webp",
+      "bytes": 79446,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "code-key.webp",
+      "bytes": 96004,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "bigger-value.webp",
+      "bytes": 98398,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "rapid-category.webp",
+      "bytes": 89134,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "matching-stream.webp",
+      "bytes": 92322,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "letter-locator.webp",
+      "bytes": 97518,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "quantity-glance.webp",
+      "bytes": 81126,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "same-meaning.webp",
+      "bytes": 95118,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "pattern-passport.webp",
+      "bytes": 83478,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "route-flash.webp",
+      "bytes": 118012,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "wordpicture-match.webp",
+      "bytes": 94158,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "missing-piece-sprint.webp",
+      "bytes": 95286,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "order-check.webp",
+      "bytes": 85872,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "sound-pair-check.webp",
+      "bytes": 80474,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "orientation-check.webp",
+      "bytes": 81528,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "fraction-flash.webp",
+      "bytes": 84862,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "duplicate-detector.webp",
+      "bytes": 118704,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "accuracy-pacekeeper.webp",
+      "bytes": 86528,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "window-watch-banner.webp",
+      "bytes": 96844,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "echo-grid-banner.webp",
+      "bytes": 55154,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "two-back-orchard-banner.webp",
+      "bytes": 109798,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "ink-interpreter-banner.webp",
+      "bytes": 93142,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "one-different-banner.webp",
+      "bytes": 81762,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "rapid-equation-check-banner.webp",
+      "bytes": 94222,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "parcel-sequence-banner.webp",
+      "bytes": 132132,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "reverse-radio-banner.webp",
+      "bytes": 87532,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "cafe-orders-banner.webp",
+      "bytes": 99002,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "last-three-banner.webp",
+      "bytes": 123988,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "colour-ledger-banner.webp",
+      "bytes": 111436,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "running-balance-banner.webp",
+      "bytes": 106914,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "shapesound-pairs-banner.webp",
+      "bytes": 90310,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pocket-inventory-banner.webp",
+      "bytes": 142080,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "numberletter-mixer-banner.webp",
+      "bytes": 108372,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "moving-shelves-banner.webp",
+      "bytes": 91924,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "message-relay-banner.webp",
+      "bytes": 102324,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pattern-extension-banner.webp",
+      "bytes": 119308,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "seat-planner-banner.webp",
+      "bytes": 135682,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "memory-arithmetic-banner.webp",
+      "bytes": 98194,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "interrupted-sequence-banner.webp",
+      "bytes": 82690,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "direction-stack-banner.webp",
+      "bytes": 101406,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "feature-binding-banner.webp",
+      "bytes": 115562,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "name-garden-banner.webp",
+      "bytes": 131688,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "objectplace-museum-banner.webp",
+      "bytes": 116150,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "story-anchors-banner.webp",
+      "bytes": 85910,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "vocabulary-voyage-banner.webp",
+      "bytes": 106112,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "symbol-dictionary-banner.webp",
+      "bytes": 147926,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "landmark-return-banner.webp",
+      "bytes": 101348,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pair-builder-banner.webp",
+      "bytes": 92968,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "recipe-recall-banner.webp",
+      "bytes": 105340,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "yesterdays-board-banner.webp",
+      "bytes": 102980,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "fact-ladder-banner.webp",
+      "bytes": 118104,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "sound-signature-banner.webp",
+      "bytes": 97316,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "facedetail-match-banner.webp",
+      "bytes": 101138,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "category-hooks-banner.webp",
+      "bytes": 96376,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "forgotten-item-rescue-banner.webp",
+      "bytes": 121342,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "timeline-traveller-banner.webp",
+      "bytes": 107468,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "rule-recall-banner.webp",
+      "bytes": 113658,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "password-palace-banner.webp",
+      "bytes": 133828,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "detail-detective-banner.webp",
+      "bytes": 97270,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "learnteach-cards-banner.webp",
+      "bytes": 94200,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "memory-confidence-banner.webp",
+      "bytes": 87848,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "target-harbour-banner.webp",
+      "bytes": 106206,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "central-arrow-banner.webp",
+      "bytes": 106188,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "quiet-signal-banner.webp",
+      "bytes": 119262,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "changing-shopfront-banner.webp",
+      "bytes": 169252,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "multiple-object-tracker-banner.webp",
+      "bytes": 94382,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pattern-search-banner.webp",
+      "bytes": 102910,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "sound-sentinel-banner.webp",
+      "bytes": 101542,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "dual-watch-banner.webp",
+      "bytes": 107508,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "relevant-detail-banner.webp",
+      "bytes": 90692,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "odd-rhythm-banner.webp",
+      "bytes": 81692,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "peripheral-locator-banner.webp",
+      "bytes": 93752,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "proofreaders-desk-banner.webp",
+      "bytes": 100604,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "feature-intersection-banner.webp",
+      "bytes": 90696,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "signal-queue-banner.webp",
+      "bytes": 113502,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "search-without-repeating-banner.webp",
+      "bytes": 104226,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "conversation-filter-banner.webp",
+      "bytes": 84962,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "target-count-banner.webp",
+      "bytes": 80724,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "alert-or-routine-banner.webp",
+      "bytes": 80088,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "moving-reading-window-banner.webp",
+      "bytes": 102120,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "focus-recovery-banner.webp",
+      "bytes": 78246,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "gohold-garden-banner.webp",
+      "bytes": 118220,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "stop-the-delivery-banner.webp",
+      "bytes": 106240,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "rule-switch-station-banner.webp",
+      "bytes": 96652,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "opposite-compass-banner.webp",
+      "bytes": 104356,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "daynight-signals-banner.webp",
+      "bytes": 73112,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "category-flip-banner.webp",
+      "bytes": 88188,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "traffic-exception-banner.webp",
+      "bytes": 141580,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "reverse-sort-banner.webp",
+      "bytes": 91520,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "keep-or-discard-banner.webp",
+      "bytes": 89208,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "mirror-controls-banner.webp",
+      "bytes": 99194,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "question-switch-banner.webp",
+      "bytes": 88570,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "forbidden-number-banner.webp",
+      "bytes": 86552,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "change-the-sorting-law-banner.webp",
+      "bytes": 93102,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "relevant-dimension-banner.webp",
+      "bytes": 85360,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pause-before-choice-banner.webp",
+      "bytes": 94586,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "exception-collector-banner.webp",
+      "bytes": 113024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "mixed-operation-relay-banner.webp",
+      "bytes": 117292,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "strategy-reset-banner.webp",
+      "bytes": 114710,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "undo-the-habit-banner.webp",
+      "bytes": 109406,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "symbol-twins-banner.webp",
+      "bytes": 86818,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "code-key-banner.webp",
+      "bytes": 99790,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "bigger-value-banner.webp",
+      "bytes": 88132,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "rapid-category-banner.webp",
+      "bytes": 92654,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "matching-stream-banner.webp",
+      "bytes": 87218,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "letter-locator-banner.webp",
+      "bytes": 97814,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "quantity-glance-banner.webp",
+      "bytes": 71598,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "same-meaning-banner.webp",
+      "bytes": 98132,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "pattern-passport-banner.webp",
+      "bytes": 67060,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "route-flash-banner.webp",
+      "bytes": 132162,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "wordpicture-match-banner.webp",
+      "bytes": 94938,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "missing-piece-sprint-banner.webp",
+      "bytes": 65214,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "order-check-banner.webp",
+      "bytes": 84524,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "sound-pair-check-banner.webp",
+      "bytes": 74280,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "orientation-check-banner.webp",
+      "bytes": 103504,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "fraction-flash-banner.webp",
+      "bytes": 90964,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "duplicate-detector-banner.webp",
+      "bytes": 73504,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "accuracy-pacekeeper-banner.webp",
+      "bytes": 94956,
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}
