@@ -718,5 +718,10 @@
     "id": "pause-before-choice",
     "kind": "banner",
     "blob_sha": "b0104aafe612eb508d8277a8adf59297dc049f9f"
+  },
+  {
+    "id": "exception-collector",
+    "kind": "poster",
+    "blob_sha": "35abbbed14298f7f5d5390dce196c023a36b9e5b"
   }
 ]
