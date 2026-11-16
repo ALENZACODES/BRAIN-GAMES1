@@ -118,5 +118,10 @@
     "id": "pattern-extension",
     "kind": "banner",
     "blob_sha": "d62ff98cdb49ee34c9be2048856a89df47202aa6"
+  },
+  {
+    "id": "seat-planner",
+    "kind": "poster",
+    "blob_sha": "dafa0d592d95d5938764b54943b5f56fad73d272"
   }
 ]
