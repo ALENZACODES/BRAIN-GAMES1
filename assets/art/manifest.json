@@ -146,7 +146,8 @@
     "category-flip",
     "traffic-exception",
     "reverse-sort",
-    "keep-or-discard"
+    "keep-or-discard",
+    "mirror-controls"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
