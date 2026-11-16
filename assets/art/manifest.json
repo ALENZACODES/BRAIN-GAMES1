@@ -86,7 +86,8 @@
     "rule-recall",
     "password-palace",
     "detail-detective",
-    "learn-teach-cards"
+    "learn-teach-cards",
+    "memory-confidence"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
