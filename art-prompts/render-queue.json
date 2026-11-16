@@ -668,5 +668,10 @@
     "id": "mirror-controls",
     "kind": "banner",
     "blob_sha": "e18b57c704cdf5acd4ee7df01c5c89e4c6dcca55"
+  },
+  {
+    "id": "question-switch",
+    "kind": "poster",
+    "blob_sha": "9e92c840abafcb7f7534446a63634ce14f21b931"
   }
 ]
