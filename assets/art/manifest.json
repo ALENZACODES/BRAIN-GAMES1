@@ -52,7 +52,8 @@
     "direction-stack",
     "feature-binding",
     "name-garden",
-    "object-place-museum"
+    "object-place-museum",
+    "story-anchors"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
