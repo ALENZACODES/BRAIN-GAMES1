@@ -38,7 +38,8 @@
     "number-letter-mixer",
     "moving-shelves",
     "message-relay",
-    "pattern-extension"
+    "pattern-extension",
+    "seat-planner"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
