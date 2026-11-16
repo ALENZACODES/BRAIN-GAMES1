@@ -24,7 +24,8 @@
     "reverse-radio",
     "caf-orders",
     "last-three",
-    "colour-ledger"
+    "colour-ledger",
+    "running-balance"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
