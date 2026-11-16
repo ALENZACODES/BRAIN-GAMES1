@@ -893,5 +893,10 @@
     "id": "sound-pair-check",
     "kind": "poster",
     "blob_sha": "e8adeb132625580c7460a7ed5f1054bf0e5acfb8"
+  },
+  {
+    "id": "sound-pair-check",
+    "kind": "banner",
+    "blob_sha": "308e3be4d702130cd35c0b357638d1e4383db866"
   }
 ]
