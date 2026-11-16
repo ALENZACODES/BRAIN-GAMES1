@@ -143,5 +143,10 @@
     "id": "interrupted-sequence",
     "kind": "poster",
     "blob_sha": "390e3962f9ea9963c34419220751948f467182f3"
+  },
+  {
+    "id": "interrupted-sequence",
+    "kind": "banner",
+    "blob_sha": "4ca773578e63f138ad8fbe9b10a4a4fccc66350e"
   }
 ]
