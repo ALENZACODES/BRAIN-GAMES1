@@ -573,5 +573,10 @@
     "id": "go-hold-garden",
     "kind": "poster",
     "blob_sha": "e7b7d16a6007e38fe1de075e5b10ba2b4c7a9b0a"
+  },
+  {
+    "id": "go-hold-garden",
+    "kind": "banner",
+    "blob_sha": "1b87466c1498165ef97bee41f315b822e4b29a47"
   }
 ]
