@@ -683,5 +683,10 @@
     "id": "forbidden-number",
     "kind": "poster",
     "blob_sha": "3c847c91e214b672423d986b280904bd413cc929"
+  },
+  {
+    "id": "forbidden-number",
+    "kind": "banner",
+    "blob_sha": "31f93ad6989b7afd4e844c7ecc7830affefe1e57"
   }
 ]
