@@ -72,7 +72,8 @@
     "yesterday-s-board",
     "fact-ladder",
     "sound-signature",
-    "face-detail-match"
+    "face-detail-match",
+    "category-hooks"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
