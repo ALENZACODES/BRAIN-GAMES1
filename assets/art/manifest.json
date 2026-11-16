@@ -39,7 +39,8 @@
     "forgotten-item-rescue",
     "timeline-traveller",
     "rule-recall",
-    "password-palace"
+    "password-palace",
+    "detail-detective"
   ],
   "banner": [
     "window-watch",
@@ -80,7 +81,8 @@
     "category-hooks",
     "forgotten-item-rescue",
     "timeline-traveller",
-    "rule-recall"
+    "rule-recall",
+    "password-palace"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
