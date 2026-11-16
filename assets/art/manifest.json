@@ -29,7 +29,8 @@
     "vocabulary-voyage",
     "symbol-dictionary",
     "landmark-return",
-    "pair-builder"
+    "pair-builder",
+    "recipe-recall"
   ],
   "banner": [
     "window-watch",
