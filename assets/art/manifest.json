@@ -10,7 +10,8 @@
     "reverse-radio",
     "caf-orders",
     "last-three",
-    "colour-ledger"
+    "colour-ledger",
+    "running-balance"
   ],
   "banner": [
     "window-watch",
