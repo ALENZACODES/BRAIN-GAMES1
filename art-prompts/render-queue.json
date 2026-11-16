@@ -768,5 +768,10 @@
     "id": "symbol-twins",
     "kind": "banner",
     "blob_sha": "c975cac3ca990d2816767732a424c956bb434e46"
+  },
+  {
+    "id": "code-key",
+    "kind": "poster",
+    "blob_sha": "06196abc5da654bb717c2e6677c3929b6e383857"
   }
 ]
