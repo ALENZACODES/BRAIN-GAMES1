@@ -14,7 +14,8 @@
     "two-back-orchard",
     "ink-interpreter",
     "one-different",
-    "rapid-equation-check"
+    "rapid-equation-check",
+    "parcel-sequence"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
