@@ -363,5 +363,10 @@
     "id": "memory-confidence",
     "kind": "poster",
     "blob_sha": "46b262ab4eda41533cd34b6d28d9839da0903b7a"
+  },
+  {
+    "id": "memory-confidence",
+    "kind": "banner",
+    "blob_sha": "7dbb671ed6bddc452675307925bd5eecb9cd4bb3"
   }
 ]
