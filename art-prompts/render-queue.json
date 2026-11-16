@@ -273,5 +273,10 @@
     "id": "sound-signature",
     "kind": "poster",
     "blob_sha": "d56b73402aa42541ed6cfead85520dbe7c6137c0"
+  },
+  {
+    "id": "sound-signature",
+    "kind": "banner",
+    "blob_sha": "ee054d85028f58451ae8fc4c0109afef5188448f"
   }
 ]
