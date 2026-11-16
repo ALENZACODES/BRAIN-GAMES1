@@ -218,5 +218,10 @@
     "id": "symbol-dictionary",
     "kind": "banner",
     "blob_sha": "818e58af563900474f9366bc0d9385a81736abcb"
+  },
+  {
+    "id": "landmark-return",
+    "kind": "poster",
+    "blob_sha": "ab8d8f3b83934c991329fa9a9f60c0000855ff6f"
   }
 ]
