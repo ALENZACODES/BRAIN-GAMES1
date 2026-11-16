@@ -16,7 +16,8 @@
     "pocket-inventory",
     "number-letter-mixer",
     "moving-shelves",
-    "message-relay"
+    "message-relay",
+    "pattern-extension"
   ],
   "banner": [
     "window-watch",
