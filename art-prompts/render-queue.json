@@ -58,5 +58,10 @@
     "id": "running-balance",
     "kind": "banner",
     "blob_sha": "f9244b4bbfe04748103ab0335ee922e3b24dbcbb"
+  },
+  {
+    "id": "shape-sound-pairs",
+    "kind": "poster",
+    "blob_sha": "d34d414bacfc71968930d3dac818c79aa8a650ce"
   }
 ]
