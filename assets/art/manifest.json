@@ -6,7 +6,8 @@
     "ink-interpreter",
     "one-different",
     "rapid-equation-check",
-    "parcel-sequence"
+    "parcel-sequence",
+    "reverse-radio"
   ],
   "banner": [
     "window-watch",
