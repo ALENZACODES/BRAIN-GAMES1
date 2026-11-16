@@ -136,7 +136,8 @@
     "go-hold-garden",
     "stop-the-delivery",
     "rule-switch-station",
-    "opposite-compass"
+    "opposite-compass",
+    "day-night-signals"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
