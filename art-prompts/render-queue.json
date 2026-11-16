@@ -778,5 +778,10 @@
     "id": "code-key",
     "kind": "banner",
     "blob_sha": "c5b67212ffd11f299bc2e0344c55d6e454123251"
+  },
+  {
+    "id": "bigger-value",
+    "kind": "poster",
+    "blob_sha": "8f44784c43ed18d7bd23317122677f4379329ee1"
   }
 ]
