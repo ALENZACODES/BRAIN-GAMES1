@@ -4,7 +4,8 @@
     "echo-grid",
     "two-back-orchard",
     "ink-interpreter",
-    "one-different"
+    "one-different",
+    "rapid-equation-check"
   ],
   "banner": [
     "window-watch",
