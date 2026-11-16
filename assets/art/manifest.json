@@ -67,7 +67,8 @@
     "stop-the-delivery",
     "rule-switch-station",
     "opposite-compass",
-    "day-night-signals"
+    "day-night-signals",
+    "category-flip"
   ],
   "banner": [
     "window-watch",
