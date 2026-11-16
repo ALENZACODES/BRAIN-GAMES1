@@ -413,5 +413,10 @@
     "id": "multiple-object-tracker",
     "kind": "poster",
     "blob_sha": "f6cc9beb0d119669027e8390e303ee6b5b0878d7"
+  },
+  {
+    "id": "multiple-object-tracker",
+    "kind": "banner",
+    "blob_sha": "0af54dc0ed172d24a5984d4c66030dc2006fce0c"
   }
 ]
