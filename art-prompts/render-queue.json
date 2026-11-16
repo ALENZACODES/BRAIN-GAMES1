@@ -853,5 +853,10 @@
     "id": "route-flash",
     "kind": "poster",
     "blob_sha": "3c451c82359e1cc4cb4309cff4aef707d9ee7b64"
+  },
+  {
+    "id": "route-flash",
+    "kind": "banner",
+    "blob_sha": "81fcfa0a9af364b65187b5f2ceefe846146b24e0"
   }
 ]
