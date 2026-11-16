@@ -126,7 +126,8 @@
     "conversation-filter",
     "target-count",
     "alert-or-routine",
-    "moving-reading-window"
+    "moving-reading-window",
+    "focus-recovery"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
