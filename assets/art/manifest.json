@@ -184,7 +184,8 @@
     "letter-locator",
     "quantity-glance",
     "same-meaning",
-    "pattern-passport"
+    "pattern-passport",
+    "route-flash"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
