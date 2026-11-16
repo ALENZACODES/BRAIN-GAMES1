@@ -114,7 +114,8 @@
     "odd-rhythm",
     "peripheral-locator",
     "proofreader-s-desk",
-    "feature-intersection"
+    "feature-intersection",
+    "signal-queue"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
