@@ -353,5 +353,10 @@
     "id": "learn-teach-cards",
     "kind": "poster",
     "blob_sha": "934df4b70b441540f8b9fd0dbb8b20242e3fe29b"
+  },
+  {
+    "id": "learn-teach-cards",
+    "kind": "banner",
+    "blob_sha": "eb859c4f0f3b252067be77f626c54033140ac9a6"
   }
 ]
