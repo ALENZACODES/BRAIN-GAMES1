@@ -28,5 +28,10 @@
     "id": "caf-orders",
     "kind": "banner",
     "blob_sha": "1731ddbb66643d98647881fa7b7cf9c3234736ae"
+  },
+  {
+    "id": "last-three",
+    "kind": "poster",
+    "blob_sha": "f354ebbdb824cf4240448860f08660e3000e7f52"
   }
 ]
