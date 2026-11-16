@@ -48,7 +48,8 @@
     "quiet-signal",
     "changing-shopfront",
     "multiple-object-tracker",
-    "pattern-search"
+    "pattern-search",
+    "sound-sentinel"
   ],
   "banner": [
     "window-watch",
