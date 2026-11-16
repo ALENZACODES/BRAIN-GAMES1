@@ -213,5 +213,10 @@
     "id": "symbol-dictionary",
     "kind": "poster",
     "blob_sha": "8d8a33c75c92967dae658fd4423129de6e7ea9c2"
+  },
+  {
+    "id": "symbol-dictionary",
+    "kind": "banner",
+    "blob_sha": "818e58af563900474f9366bc0d9385a81736abcb"
   }
 ]
