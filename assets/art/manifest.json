@@ -78,7 +78,8 @@
     "change-the-sorting-law",
     "relevant-dimension",
     "pause-before-choice",
-    "exception-collector"
+    "exception-collector",
+    "mixed-operation-relay"
   ],
   "banner": [
     "window-watch",
