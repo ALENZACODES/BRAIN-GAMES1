@@ -758,5 +758,10 @@
     "id": "undo-the-habit",
     "kind": "banner",
     "blob_sha": "834f5f3ef35856c37c0b8a53e93d05d3daab2c2d"
+  },
+  {
+    "id": "symbol-twins",
+    "kind": "poster",
+    "blob_sha": "16cb21d5110267f81d7e24c45288a0651e169850"
   }
 ]
