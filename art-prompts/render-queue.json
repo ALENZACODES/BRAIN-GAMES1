@@ -503,5 +503,10 @@
     "id": "signal-queue",
     "kind": "poster",
     "blob_sha": "71d6f8c8f382b1f7a184400815449d6fa87ba1c1"
+  },
+  {
+    "id": "signal-queue",
+    "kind": "banner",
+    "blob_sha": "334f2f5cb616e3a3fe216ae8bc3488aa3449f11f"
   }
 ]
