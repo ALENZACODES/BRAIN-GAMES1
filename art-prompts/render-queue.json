@@ -533,5 +533,10 @@
     "id": "target-count",
     "kind": "poster",
     "blob_sha": "f1020784d929e337489fda185beeedce6bb3b0de"
+  },
+  {
+    "id": "target-count",
+    "kind": "banner",
+    "blob_sha": "81292e54b7bd14b961d73e8fc4dbc989312cfbf1"
   }
 ]
