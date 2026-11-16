@@ -36,7 +36,8 @@
     "pocket-inventory",
     "number-letter-mixer",
     "moving-shelves",
-    "message-relay"
+    "message-relay",
+    "pattern-extension"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
