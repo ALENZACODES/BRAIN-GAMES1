@@ -46,7 +46,8 @@
     "seat-planner",
     "memory-arithmetic",
     "interrupted-sequence",
-    "direction-stack"
+    "direction-stack",
+    "feature-binding"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
