@@ -162,7 +162,8 @@
     "relevant-dimension",
     "pause-before-choice",
     "exception-collector",
-    "mixed-operation-relay"
+    "mixed-operation-relay",
+    "strategy-reset"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
