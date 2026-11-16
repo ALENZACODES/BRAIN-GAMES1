@@ -144,7 +144,8 @@
     "day-night-signals",
     "category-flip",
     "traffic-exception",
-    "reverse-sort"
+    "reverse-sort",
+    "keep-or-discard"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
