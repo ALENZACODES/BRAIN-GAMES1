@@ -74,7 +74,8 @@
     "fact-ladder",
     "sound-signature",
     "face-detail-match",
-    "category-hooks"
+    "category-hooks",
+    "forgotten-item-rescue"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
