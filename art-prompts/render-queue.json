@@ -498,5 +498,10 @@
     "id": "feature-intersection",
     "kind": "banner",
     "blob_sha": "e1fbbeb954c13911bdd38f62c09e035866a62bd2"
+  },
+  {
+    "id": "signal-queue",
+    "kind": "poster",
+    "blob_sha": "71d6f8c8f382b1f7a184400815449d6fa87ba1c1"
   }
 ]
