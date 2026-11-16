@@ -188,7 +188,8 @@
     "same-meaning",
     "pattern-passport",
     "route-flash",
-    "word-picture-match"
+    "word-picture-match",
+    "missing-piece-sprint"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
