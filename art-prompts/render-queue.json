@@ -818,5 +818,10 @@
     "id": "letter-locator",
     "kind": "banner",
     "blob_sha": "81b888d24c09ef2df8f22b8b994f2923b09a2c35"
+  },
+  {
+    "id": "quantity-glance",
+    "kind": "poster",
+    "blob_sha": "34063d368639d63fcbb60454a5df075c8913d19c"
   }
 ]
