@@ -46,7 +46,8 @@
     "target-harbour",
     "central-arrow",
     "quiet-signal",
-    "changing-shopfront"
+    "changing-shopfront",
+    "multiple-object-tracker"
   ],
   "banner": [
     "window-watch",
