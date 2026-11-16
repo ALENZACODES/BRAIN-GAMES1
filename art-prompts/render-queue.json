@@ -198,5 +198,10 @@
     "id": "story-anchors",
     "kind": "banner",
     "blob_sha": "56f3d82fcbc67550f216498bee902529eaad266d"
+  },
+  {
+    "id": "vocabulary-voyage",
+    "kind": "poster",
+    "blob_sha": "6e3632d60524fccd8eefdc78f1bcf053d06ae280"
   }
 ]
