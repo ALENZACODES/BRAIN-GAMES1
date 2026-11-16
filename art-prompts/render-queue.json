@@ -603,5 +603,10 @@
     "id": "opposite-compass",
     "kind": "poster",
     "blob_sha": "6a23e48a311c211e4d07d1d0a9a3ed26de7e225a"
+  },
+  {
+    "id": "opposite-compass",
+    "kind": "banner",
+    "blob_sha": "4d129785f4ca3873c2c12965cfac3f2d79060677"
   }
 ]
