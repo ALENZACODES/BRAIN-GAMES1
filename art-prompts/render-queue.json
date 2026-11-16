@@ -578,5 +578,10 @@
     "id": "go-hold-garden",
     "kind": "banner",
     "blob_sha": "1b87466c1498165ef97bee41f315b822e4b29a47"
+  },
+  {
+    "id": "stop-the-delivery",
+    "kind": "poster",
+    "blob_sha": "6c0fd740dddb2ec7dd28545bfa71b39f655e7f90"
   }
 ]
