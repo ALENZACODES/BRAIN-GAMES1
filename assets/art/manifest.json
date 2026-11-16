@@ -5,7 +5,8 @@
     "two-back-orchard",
     "ink-interpreter",
     "one-different",
-    "rapid-equation-check"
+    "rapid-equation-check",
+    "parcel-sequence"
   ],
   "banner": [
     "window-watch",
