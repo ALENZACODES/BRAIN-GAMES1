@@ -76,7 +76,8 @@
     "question-switch",
     "forbidden-number",
     "change-the-sorting-law",
-    "relevant-dimension"
+    "relevant-dimension",
+    "pause-before-choice"
   ],
   "banner": [
     "window-watch",
