@@ -358,5 +358,10 @@
     "id": "learn-teach-cards",
     "kind": "banner",
     "blob_sha": "eb859c4f0f3b252067be77f626c54033140ac9a6"
+  },
+  {
+    "id": "memory-confidence",
+    "kind": "poster",
+    "blob_sha": "46b262ab4eda41533cd34b6d28d9839da0903b7a"
   }
 ]
