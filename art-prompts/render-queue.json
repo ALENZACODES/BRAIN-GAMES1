@@ -123,5 +123,10 @@
     "id": "seat-planner",
     "kind": "poster",
     "blob_sha": "dafa0d592d95d5938764b54943b5f56fad73d272"
+  },
+  {
+    "id": "seat-planner",
+    "kind": "banner",
+    "blob_sha": "13650a6a4ee5b918a9b6cd8703f85e0dc788762b"
   }
 ]
