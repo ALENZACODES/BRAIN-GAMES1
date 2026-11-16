@@ -238,5 +238,10 @@
     "id": "pair-builder",
     "kind": "banner",
     "blob_sha": "f5c7b667918ac5f3381882378cc5b05b462def52"
+  },
+  {
+    "id": "recipe-recall",
+    "kind": "poster",
+    "blob_sha": "cd61b8e508691455b836a09c70588a19f841ca87"
   }
 ]
