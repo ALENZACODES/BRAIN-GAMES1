@@ -8,7 +8,8 @@
   "banner": [
     "window-watch",
     "echo-grid",
-    "two-back-orchard"
+    "two-back-orchard",
+    "ink-interpreter"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
