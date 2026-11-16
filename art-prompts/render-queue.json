@@ -633,5 +633,10 @@
     "id": "traffic-exception",
     "kind": "poster",
     "blob_sha": "ce663dfa181ec505270a3a4c6fcdd99d9431f346"
+  },
+  {
+    "id": "traffic-exception",
+    "kind": "banner",
+    "blob_sha": "e66e7b78eb3737dc814cada8db7eb79b8c87511c"
   }
 ]
