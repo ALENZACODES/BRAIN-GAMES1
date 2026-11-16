@@ -37,7 +37,8 @@
     "face-detail-match",
     "category-hooks",
     "forgotten-item-rescue",
-    "timeline-traveller"
+    "timeline-traveller",
+    "rule-recall"
   ],
   "banner": [
     "window-watch",
