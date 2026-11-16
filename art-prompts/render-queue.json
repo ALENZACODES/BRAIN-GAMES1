@@ -543,5 +543,10 @@
     "id": "alert-or-routine",
     "kind": "poster",
     "blob_sha": "6b9065bb6f30872e8eb70c7a8788fc698f4d2bfc"
+  },
+  {
+    "id": "alert-or-routine",
+    "kind": "banner",
+    "blob_sha": "bc5b8169d333666353e9c4bab511c6140d4e33d7"
   }
 ]
