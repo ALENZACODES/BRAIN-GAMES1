@@ -80,7 +80,8 @@
     "pause-before-choice",
     "exception-collector",
     "mixed-operation-relay",
-    "strategy-reset"
+    "strategy-reset",
+    "undo-the-habit"
   ],
   "banner": [
     "window-watch",
