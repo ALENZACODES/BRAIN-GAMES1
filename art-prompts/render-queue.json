@@ -343,5 +343,10 @@
     "id": "detail-detective",
     "kind": "poster",
     "blob_sha": "f08234cc78ec54fc4b58442e862ea3a87a9d58b2"
+  },
+  {
+    "id": "detail-detective",
+    "kind": "banner",
+    "blob_sha": "76ad900314a2e2dfc5a8fe1eda984791a7aa5d96"
   }
 ]
