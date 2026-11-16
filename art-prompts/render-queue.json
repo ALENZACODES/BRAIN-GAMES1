@@ -653,5 +653,10 @@
     "id": "keep-or-discard",
     "kind": "poster",
     "blob_sha": "1c25e086e00799bbc3f2bcf5420ba7d17ea34fc5"
+  },
+  {
+    "id": "keep-or-discard",
+    "kind": "banner",
+    "blob_sha": "8ac717f39d911b9c6a3df821a322cf72909c7e80"
   }
 ]
