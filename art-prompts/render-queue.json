@@ -43,5 +43,10 @@
     "id": "colour-ledger",
     "kind": "poster",
     "blob_sha": "218feb4c77d115ac1a04ec4570cae4aa62f61693"
+  },
+  {
+    "id": "colour-ledger",
+    "kind": "banner",
+    "blob_sha": "1e12ba916009dc7ab8ab9a2f28f4828d7112c62a"
   }
 ]
