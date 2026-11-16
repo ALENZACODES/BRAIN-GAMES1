@@ -618,5 +618,10 @@
     "id": "day-night-signals",
     "kind": "banner",
     "blob_sha": "415a3b79b7c1ef1e37cd907795681afead88ca9f"
+  },
+  {
+    "id": "category-flip",
+    "kind": "poster",
+    "blob_sha": "2abc596b16260494f0fdb8454136b454b0854ee0"
   }
 ]
