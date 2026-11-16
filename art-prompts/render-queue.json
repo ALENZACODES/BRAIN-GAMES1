@@ -788,5 +788,10 @@
     "id": "bigger-value",
     "kind": "banner",
     "blob_sha": "186798852b2e8cdd6543286033d1c0b744970bb4"
+  },
+  {
+    "id": "rapid-category",
+    "kind": "poster",
+    "blob_sha": "4c36a4575a4c3a45414b4ef895a8a7a671d615ca"
   }
 ]
