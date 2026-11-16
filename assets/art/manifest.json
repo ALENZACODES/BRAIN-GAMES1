@@ -110,7 +110,8 @@
     "dual-watch",
     "relevant-detail",
     "odd-rhythm",
-    "peripheral-locator"
+    "peripheral-locator",
+    "proofreader-s-desk"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
