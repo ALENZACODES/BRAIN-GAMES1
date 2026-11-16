@@ -178,5 +178,10 @@
     "id": "name-garden",
     "kind": "banner",
     "blob_sha": "701e116fdf7a96182715985f003706de6555d28d"
+  },
+  {
+    "id": "object-place-museum",
+    "kind": "poster",
+    "blob_sha": "636087da60a322b5b841e947d524596574e1b3fa"
   }
 ]
