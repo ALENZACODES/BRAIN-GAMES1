@@ -568,5 +568,10 @@
     "id": "focus-recovery",
     "kind": "banner",
     "blob_sha": "5aeeb8f8954558e7de0186da382f20a1e180dcbf"
+  },
+  {
+    "id": "go-hold-garden",
+    "kind": "poster",
+    "blob_sha": "e7b7d16a6007e38fe1de075e5b10ba2b4c7a9b0a"
   }
 ]
