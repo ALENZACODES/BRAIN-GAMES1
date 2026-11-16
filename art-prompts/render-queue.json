@@ -163,5 +163,10 @@
     "id": "feature-binding",
     "kind": "poster",
     "blob_sha": "5b7c7a8f021d12bc2db2238e451fd788f96095e4"
+  },
+  {
+    "id": "feature-binding",
+    "kind": "banner",
+    "blob_sha": "8e1deca25568746c87c1d14e9f29241ad655ec9d"
   }
 ]
