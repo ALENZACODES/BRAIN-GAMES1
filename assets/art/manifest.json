@@ -100,7 +100,8 @@
     "quiet-signal",
     "changing-shopfront",
     "multiple-object-tracker",
-    "pattern-search"
+    "pattern-search",
+    "sound-sentinel"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
