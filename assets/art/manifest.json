@@ -32,7 +32,8 @@
     "running-balance",
     "shape-sound-pairs",
     "pocket-inventory",
-    "number-letter-mixer"
+    "number-letter-mixer",
+    "moving-shelves"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
