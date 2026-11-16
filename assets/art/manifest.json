@@ -22,7 +22,8 @@
     "memory-arithmetic",
     "interrupted-sequence",
     "direction-stack",
-    "feature-binding"
+    "feature-binding",
+    "name-garden"
   ],
   "banner": [
     "window-watch",
