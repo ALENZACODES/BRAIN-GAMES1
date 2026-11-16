@@ -168,5 +168,10 @@
     "id": "feature-binding",
     "kind": "banner",
     "blob_sha": "8e1deca25568746c87c1d14e9f29241ad655ec9d"
+  },
+  {
+    "id": "name-garden",
+    "kind": "poster",
+    "blob_sha": "cab8e55db24d10d3824ebb9ad5218728356aeaac"
   }
 ]
