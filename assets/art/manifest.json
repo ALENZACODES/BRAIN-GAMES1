@@ -90,7 +90,8 @@
     "letter-locator",
     "quantity-glance",
     "same-meaning",
-    "pattern-passport"
+    "pattern-passport",
+    "route-flash"
   ],
   "banner": [
     "window-watch",
@@ -182,7 +183,8 @@
     "matching-stream",
     "letter-locator",
     "quantity-glance",
-    "same-meaning"
+    "same-meaning",
+    "pattern-passport"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
