@@ -863,5 +863,10 @@
     "id": "word-picture-match",
     "kind": "poster",
     "blob_sha": "dbd6a83b0173cf5182e6a6919bc6e3a69b175d5c"
+  },
+  {
+    "id": "word-picture-match",
+    "kind": "banner",
+    "blob_sha": "20e50e2af2491774229a38ea9e2f3f28289fc895"
   }
 ]
