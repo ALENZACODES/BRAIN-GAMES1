@@ -56,7 +56,8 @@
     "peripheral-locator",
     "proofreader-s-desk",
     "feature-intersection",
-    "signal-queue"
+    "signal-queue",
+    "search-without-repeating"
   ],
   "banner": [
     "window-watch",
