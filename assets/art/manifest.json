@@ -50,7 +50,8 @@
     "multiple-object-tracker",
     "pattern-search",
     "sound-sentinel",
-    "dual-watch"
+    "dual-watch",
+    "relevant-detail"
   ],
   "banner": [
     "window-watch",
