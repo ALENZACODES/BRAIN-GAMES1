@@ -678,5 +678,10 @@
     "id": "question-switch",
     "kind": "banner",
     "blob_sha": "e139bdc08c7c67b676790feefc8ef9a4a3f1de09"
+  },
+  {
+    "id": "forbidden-number",
+    "kind": "poster",
+    "blob_sha": "3c847c91e214b672423d986b280904bd413cc929"
   }
 ]
