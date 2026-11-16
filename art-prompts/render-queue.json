@@ -98,5 +98,10 @@
     "id": "moving-shelves",
     "kind": "banner",
     "blob_sha": "312963234a7ce0e6de9cb8f9e580c5fe087fa3c5"
+  },
+  {
+    "id": "message-relay",
+    "kind": "poster",
+    "blob_sha": "939575f14fccc0795663c8a78aa64be870c2624e"
   }
 ]
