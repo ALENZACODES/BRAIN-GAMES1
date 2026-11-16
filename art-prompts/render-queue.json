@@ -248,5 +248,10 @@
     "id": "recipe-recall",
     "kind": "banner",
     "blob_sha": "4677791b615590ac39330796002a24ff3f71df0c"
+  },
+  {
+    "id": "yesterday-s-board",
+    "kind": "poster",
+    "blob_sha": "6b74197aead019784432c63fe69ff226d48b871c"
   }
 ]
