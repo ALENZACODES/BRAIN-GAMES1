@@ -196,7 +196,8 @@
     "missing-piece-sprint",
     "order-check",
     "sound-pair-check",
-    "orientation-check"
+    "orientation-check",
+    "fraction-flash"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
