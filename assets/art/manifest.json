@@ -158,7 +158,8 @@
     "forbidden-number",
     "change-the-sorting-law",
     "relevant-dimension",
-    "pause-before-choice"
+    "pause-before-choice",
+    "exception-collector"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
