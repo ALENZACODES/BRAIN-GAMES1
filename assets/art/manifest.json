@@ -10,7 +10,8 @@
     "window-watch",
     "echo-grid",
     "two-back-orchard",
-    "ink-interpreter"
+    "ink-interpreter",
+    "one-different"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
