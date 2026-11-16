@@ -68,7 +68,8 @@
     "rule-switch-station",
     "opposite-compass",
     "day-night-signals",
-    "category-flip"
+    "category-flip",
+    "traffic-exception"
   ],
   "banner": [
     "window-watch",
