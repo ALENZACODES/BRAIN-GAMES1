@@ -58,7 +58,8 @@
     "object-place-museum",
     "story-anchors",
     "vocabulary-voyage",
-    "symbol-dictionary"
+    "symbol-dictionary",
+    "landmark-return"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
