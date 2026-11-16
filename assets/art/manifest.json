@@ -94,7 +94,8 @@
     "memory-confidence",
     "target-harbour",
     "central-arrow",
-    "quiet-signal"
+    "quiet-signal",
+    "changing-shopfront"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
