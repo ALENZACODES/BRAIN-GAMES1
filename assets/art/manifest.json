@@ -18,7 +18,8 @@
     "one-different",
     "rapid-equation-check",
     "parcel-sequence",
-    "reverse-radio"
+    "reverse-radio",
+    "caf-orders"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
