@@ -743,5 +743,10 @@
     "id": "strategy-reset",
     "kind": "poster",
     "blob_sha": "e95968ee1cae1761890825cf0aafc383f55bc5a6"
+  },
+  {
+    "id": "strategy-reset",
+    "kind": "banner",
+    "blob_sha": "c81e01a19372649ff42149529055fbc71e1946bf"
   }
 ]
