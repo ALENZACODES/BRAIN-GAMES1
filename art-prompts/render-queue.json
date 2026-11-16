@@ -483,5 +483,10 @@
     "id": "proofreader-s-desk",
     "kind": "poster",
     "blob_sha": "b8a6ad6d89386b3928414b9247bf59d7406f9c9e"
+  },
+  {
+    "id": "proofreader-s-desk",
+    "kind": "banner",
+    "blob_sha": "55922c3663c6472c624c57937011bf3e8c5fe61e"
   }
 ]
