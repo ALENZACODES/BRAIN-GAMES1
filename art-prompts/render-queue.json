@@ -408,5 +408,10 @@
     "id": "changing-shopfront",
     "kind": "banner",
     "blob_sha": "f5b2585885c37bcaa612bca4e660b6a120f4b83f"
+  },
+  {
+    "id": "multiple-object-tracker",
+    "kind": "poster",
+    "blob_sha": "f6cc9beb0d119669027e8390e303ee6b5b0878d7"
   }
 ]
