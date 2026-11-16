@@ -55,7 +55,8 @@
     "odd-rhythm",
     "peripheral-locator",
     "proofreader-s-desk",
-    "feature-intersection"
+    "feature-intersection",
+    "signal-queue"
   ],
   "banner": [
     "window-watch",
