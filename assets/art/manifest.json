@@ -180,7 +180,8 @@
     "rapid-category",
     "matching-stream",
     "letter-locator",
-    "quantity-glance"
+    "quantity-glance",
+    "same-meaning"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
