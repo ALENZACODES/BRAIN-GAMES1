@@ -62,7 +62,8 @@
     "target-count",
     "alert-or-routine",
     "moving-reading-window",
-    "focus-recovery"
+    "focus-recovery",
+    "go-hold-garden"
   ],
   "banner": [
     "window-watch",
