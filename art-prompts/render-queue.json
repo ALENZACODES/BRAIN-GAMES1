@@ -588,5 +588,10 @@
     "id": "stop-the-delivery",
     "kind": "banner",
     "blob_sha": "8ee28758503bdd01c3fd1f5509e9296dee4473f7"
+  },
+  {
+    "id": "rule-switch-station",
+    "kind": "poster",
+    "blob_sha": "24aa70432b1f301f4c99f29727018df5d605ef4f"
   }
 ]
