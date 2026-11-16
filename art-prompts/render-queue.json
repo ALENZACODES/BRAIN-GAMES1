@@ -873,5 +873,10 @@
     "id": "missing-piece-sprint",
     "kind": "poster",
     "blob_sha": "59cee59eaa74821a425706a016a094e033adef20"
+  },
+  {
+    "id": "missing-piece-sprint",
+    "kind": "banner",
+    "blob_sha": "3dc5e0f8a1006a1b678b246d6c11840fe9558f1d"
   }
 ]
