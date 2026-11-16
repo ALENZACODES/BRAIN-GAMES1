@@ -383,5 +383,10 @@
     "id": "central-arrow",
     "kind": "poster",
     "blob_sha": "54777f497d9244082fc26125ee6871d5e5a925a0"
+  },
+  {
+    "id": "central-arrow",
+    "kind": "banner",
+    "blob_sha": "47452fcc4038929a64ba1c52b7f0166bcd0745d7"
   }
 ]
