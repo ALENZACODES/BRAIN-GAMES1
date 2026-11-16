@@ -438,5 +438,10 @@
     "id": "sound-sentinel",
     "kind": "banner",
     "blob_sha": "a7e06e8603f5506b47b0e877c5cbda2eecd605fc"
+  },
+  {
+    "id": "dual-watch",
+    "kind": "poster",
+    "blob_sha": "51097fff03ec9fafe6536d48028980c9a35ed172"
   }
 ]
