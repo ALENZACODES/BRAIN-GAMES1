@@ -628,5 +628,10 @@
     "id": "category-flip",
     "kind": "banner",
     "blob_sha": "dde9925c036142a737b3892590ad80f29c00285e"
+  },
+  {
+    "id": "traffic-exception",
+    "kind": "poster",
+    "blob_sha": "ce663dfa181ec505270a3a4c6fcdd99d9431f346"
   }
 ]
