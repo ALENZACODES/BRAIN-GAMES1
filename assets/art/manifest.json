@@ -200,7 +200,8 @@
     "sound-pair-check",
     "orientation-check",
     "fraction-flash",
-    "duplicate-detector"
+    "duplicate-detector",
+    "accuracy-pacekeeper"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
