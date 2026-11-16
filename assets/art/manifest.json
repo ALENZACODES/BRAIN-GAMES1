@@ -98,7 +98,8 @@
     "sound-pair-check",
     "orientation-check",
     "fraction-flash",
-    "duplicate-detector"
+    "duplicate-detector",
+    "accuracy-pacekeeper"
   ],
   "banner": [
     "window-watch",
