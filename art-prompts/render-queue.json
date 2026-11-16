@@ -713,5 +713,10 @@
     "id": "pause-before-choice",
     "kind": "poster",
     "blob_sha": "d5d69babb1e412e64b3cb10b9ba46de0bf0c2f6e"
+  },
+  {
+    "id": "pause-before-choice",
+    "kind": "banner",
+    "blob_sha": "b0104aafe612eb508d8277a8adf59297dc049f9f"
   }
 ]
