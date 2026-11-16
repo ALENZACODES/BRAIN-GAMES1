@@ -288,5 +288,10 @@
     "id": "face-detail-match",
     "kind": "banner",
     "blob_sha": "0cbce0b5041a4c33b4af54454dc51050d207feb0"
+  },
+  {
+    "id": "category-hooks",
+    "kind": "poster",
+    "blob_sha": "fb9acd1c662a23544df470c1446e300861beb4d1"
   }
 ]
