@@ -723,5 +723,10 @@
     "id": "exception-collector",
     "kind": "poster",
     "blob_sha": "35abbbed14298f7f5d5390dce196c023a36b9e5b"
+  },
+  {
+    "id": "exception-collector",
+    "kind": "banner",
+    "blob_sha": "e731dba6e1cacc3d36188b6b237fe671c5dd008d"
   }
 ]
