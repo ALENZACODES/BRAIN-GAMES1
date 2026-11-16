@@ -47,7 +47,8 @@
     "central-arrow",
     "quiet-signal",
     "changing-shopfront",
-    "multiple-object-tracker"
+    "multiple-object-tracker",
+    "pattern-search"
   ],
   "banner": [
     "window-watch",
