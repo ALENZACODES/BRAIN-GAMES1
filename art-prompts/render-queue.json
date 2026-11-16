@@ -68,5 +68,10 @@
     "id": "shape-sound-pairs",
     "kind": "banner",
     "blob_sha": "044052fa249d36f1516f56f7f9747a7903fcf33a"
+  },
+  {
+    "id": "pocket-inventory",
+    "kind": "poster",
+    "blob_sha": "ca0341d4604f64f83e32fc5d98108af788f34eca"
   }
 ]
