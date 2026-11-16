@@ -828,5 +828,10 @@
     "id": "quantity-glance",
     "kind": "banner",
     "blob_sha": "cbb7490676699fb9eb0af5f04fd1e3642644bad2"
+  },
+  {
+    "id": "same-meaning",
+    "kind": "poster",
+    "blob_sha": "cd812650f2e8b8ab57c41a04dcedc91ce39292c6"
   }
 ]
