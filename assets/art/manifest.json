@@ -34,7 +34,8 @@
     "shape-sound-pairs",
     "pocket-inventory",
     "number-letter-mixer",
-    "moving-shelves"
+    "moving-shelves",
+    "message-relay"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
