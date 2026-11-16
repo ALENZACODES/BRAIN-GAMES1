@@ -19,7 +19,8 @@
     "message-relay",
     "pattern-extension",
     "seat-planner",
-    "memory-arithmetic"
+    "memory-arithmetic",
+    "interrupted-sequence"
   ],
   "banner": [
     "window-watch",
