@@ -708,5 +708,10 @@
     "id": "relevant-dimension",
     "kind": "banner",
     "blob_sha": "6279b7a9e0d3c2d2b79b4c404b00d9a45abaf52e"
+  },
+  {
+    "id": "pause-before-choice",
+    "kind": "poster",
+    "blob_sha": "d5d69babb1e412e64b3cb10b9ba46de0bf0c2f6e"
   }
 ]
