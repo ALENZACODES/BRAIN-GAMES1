@@ -673,5 +673,10 @@
     "id": "question-switch",
     "kind": "poster",
     "blob_sha": "9e92c840abafcb7f7534446a63634ce14f21b931"
+  },
+  {
+    "id": "question-switch",
+    "kind": "banner",
+    "blob_sha": "e139bdc08c7c67b676790feefc8ef9a4a3f1de09"
   }
 ]
