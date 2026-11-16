@@ -1,7 +1,7 @@
 # Per-game image prompts (games 1–100)
 
 Paste the **master command** from `MASTER_IMAGE_PROMPT.md` into the image generator once, then send these one at a time.
-Games marked ★ are playable now; their prompts were written by hand. The rest are drafted from the concept text, so review them before use.
+All 100 games here are playable. Prompts marked ★ were written by hand for the first 12 games built; the rest are drafted from each game’s concept text, so give them a quick read before use.
 
 ## 1. Parcel Sequence
 Save as `assets/art/parcel-sequence.webp` (poster) and `assets/art/parcel-sequence-banner.webp` (banner).
@@ -34,13 +34,13 @@ BANNER for "window-watch" (landscape 3:2, same world and palette, wider establis
 ```
 
 ## 4. Café Orders
-Save as `assets/art/caf-orders.webp` (poster) and `assets/art/caf-orders-banner.webp` (banner).
+Save as `assets/art/cafe-orders.webp` (poster) and `assets/art/cafe-orders-banner.webp` (banner).
 
 ```
-POSTER for "caf-orders". Scene: A cinematic scene that visualises this game concept without any text: Remember several customers’ drinks and deliver each to the correct person. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
+POSTER for "cafe-orders". Scene: A cinematic scene that visualises this game concept without any text: Remember several customers’ drinks and deliver each to the correct person. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
 ```
 ```
-BANNER for "caf-orders" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "cafe-orders" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 5. Last Three
@@ -74,13 +74,13 @@ BANNER for "running-balance" (landscape 3:2, same world and palette, wider estab
 ```
 
 ## 8. Shape–Sound Pairs
-Save as `assets/art/shape-sound-pairs.webp` (poster) and `assets/art/shape-sound-pairs-banner.webp` (banner).
+Save as `assets/art/shapesound-pairs.webp` (poster) and `assets/art/shapesound-pairs-banner.webp` (banner).
 
 ```
-POSTER for "shape-sound-pairs". Scene: A cinematic scene that visualises this game concept without any text: Learn which sound belongs to each shape, then choose the matching partner. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
+POSTER for "shapesound-pairs". Scene: A cinematic scene that visualises this game concept without any text: Learn which sound belongs to each shape, then choose the matching partner. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
 ```
 ```
-BANNER for "shape-sound-pairs" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "shapesound-pairs" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 9. Pocket Inventory
@@ -94,13 +94,13 @@ BANNER for "pocket-inventory" (landscape 3:2, same world and palette, wider esta
 ```
 
 ## 10. Number–Letter Mixer
-Save as `assets/art/number-letter-mixer.webp` (poster) and `assets/art/number-letter-mixer-banner.webp` (banner).
+Save as `assets/art/numberletter-mixer.webp` (poster) and `assets/art/numberletter-mixer-banner.webp` (banner).
 
 ```
-POSTER for "number-letter-mixer". Scene: A cinematic scene that visualises this game concept without any text: See a mixed sequence such as B–3–A–1; return numbers ascending, then letters alphabetically. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
+POSTER for "numberletter-mixer". Scene: A cinematic scene that visualises this game concept without any text: See a mixed sequence such as B–3–A–1; return numbers ascending, then letters alphabetically. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: deep violet and electric lilac with warm amber accents.
 ```
 ```
-BANNER for "number-letter-mixer" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "numberletter-mixer" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 11. Moving Shelves
@@ -214,13 +214,13 @@ BANNER for "name-garden" (landscape 3:2, same world and palette, wider establish
 ```
 
 ## 22. Object–Place Museum
-Save as `assets/art/object-place-museum.webp` (poster) and `assets/art/object-place-museum-banner.webp` (banner).
+Save as `assets/art/objectplace-museum.webp` (poster) and `assets/art/objectplace-museum-banner.webp` (banner).
 
 ```
-POSTER for "object-place-museum". Scene: A cinematic scene that visualises this game concept without any text: Place unusual objects in museum rooms, then identify where each belongs. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
+POSTER for "objectplace-museum". Scene: A cinematic scene that visualises this game concept without any text: Place unusual objects in museum rooms, then identify where each belongs. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
 ```
 ```
-BANNER for "object-place-museum" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "objectplace-museum" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 23. Story Anchors
@@ -284,13 +284,13 @@ BANNER for "recipe-recall" (landscape 3:2, same world and palette, wider establi
 ```
 
 ## 29. Yesterday’s Board
-Save as `assets/art/yesterday-s-board.webp` (poster) and `assets/art/yesterday-s-board-banner.webp` (banner).
+Save as `assets/art/yesterdays-board.webp` (poster) and `assets/art/yesterdays-board-banner.webp` (banner).
 
 ```
-POSTER for "yesterday-s-board". Scene: A cinematic scene that visualises this game concept without any text: Revisit yesterday’s object board and identify which items were present. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
+POSTER for "yesterdays-board". Scene: A cinematic scene that visualises this game concept without any text: Revisit yesterday’s object board and identify which items were present. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
 ```
 ```
-BANNER for "yesterday-s-board" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "yesterdays-board" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 30. Fact Ladder
@@ -314,13 +314,13 @@ BANNER for "sound-signature" (landscape 3:2, same world and palette, wider estab
 ```
 
 ## 32. Face–Detail Match
-Save as `assets/art/face-detail-match.webp` (poster) and `assets/art/face-detail-match-banner.webp` (banner).
+Save as `assets/art/facedetail-match.webp` (poster) and `assets/art/facedetail-match-banner.webp` (banner).
 
 ```
-POSTER for "face-detail-match". Scene: A cinematic scene that visualises this game concept without any text: Learn a fictional character’s name and hobby, then recall the correct combination. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
+POSTER for "facedetail-match". Scene: A cinematic scene that visualises this game concept without any text: Learn a fictional character’s name and hobby, then recall the correct combination. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
 ```
 ```
-BANNER for "face-detail-match" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "facedetail-match" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 33. Category Hooks
@@ -384,13 +384,13 @@ BANNER for "detail-detective" (landscape 3:2, same world and palette, wider esta
 ```
 
 ## 39. Learn–Teach Cards
-Save as `assets/art/learn-teach-cards.webp` (poster) and `assets/art/learn-teach-cards-banner.webp` (banner).
+Save as `assets/art/learnteach-cards.webp` (poster) and `assets/art/learnteach-cards-banner.webp` (banner).
 
 ```
-POSTER for "learn-teach-cards". Scene: A cinematic scene that visualises this game concept without any text: Learn a concept and arrange explanation cards to teach it back. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
+POSTER for "learnteach-cards". Scene: A cinematic scene that visualises this game concept without any text: Learn a concept and arrange explanation cards to teach it back. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: magenta and plum with soft gold light.
 ```
 ```
-BANNER for "learn-teach-cards" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "learnteach-cards" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 40. Memory Confidence
@@ -514,13 +514,13 @@ BANNER for "peripheral-locator" (landscape 3:2, same world and palette, wider es
 ```
 
 ## 52. Proofreader’s Desk
-Save as `assets/art/proofreader-s-desk.webp` (poster) and `assets/art/proofreader-s-desk-banner.webp` (banner).
+Save as `assets/art/proofreaders-desk.webp` (poster) and `assets/art/proofreaders-desk-banner.webp` (banner).
 
 ```
-POSTER for "proofreader-s-desk". Scene: A cinematic scene that visualises this game concept without any text: Find specific typographical errors in short passages. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: midnight blue and cyan with a single hot-orange focal accent.
+POSTER for "proofreaders-desk". Scene: A cinematic scene that visualises this game concept without any text: Find specific typographical errors in short passages. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: midnight blue and cyan with a single hot-orange focal accent.
 ```
 ```
-BANNER for "proofreader-s-desk" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "proofreaders-desk" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 53. Feature Intersection
@@ -604,13 +604,13 @@ BANNER for "focus-recovery" (landscape 3:2, same world and palette, wider establ
 ```
 
 ## 61. Go–Hold Garden
-Save as `assets/art/go-hold-garden.webp` (poster) and `assets/art/go-hold-garden-banner.webp` (banner).
+Save as `assets/art/gohold-garden.webp` (poster) and `assets/art/gohold-garden-banner.webp` (banner).
 
 ```
-POSTER for "go-hold-garden". Scene: A cinematic scene that visualises this game concept without any text: Pick ordinary fruit but withhold responses to marked fruit. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: ember red and burnt orange against charcoal.
+POSTER for "gohold-garden". Scene: A cinematic scene that visualises this game concept without any text: Pick ordinary fruit but withhold responses to marked fruit. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: ember red and burnt orange against charcoal.
 ```
 ```
-BANNER for "go-hold-garden" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "gohold-garden" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 62. Stop the Delivery
@@ -654,13 +654,13 @@ BANNER for "opposite-compass" (landscape 3:2, same world and palette, wider esta
 ```
 
 ## 66. Day–Night Signals
-Save as `assets/art/day-night-signals.webp` (poster) and `assets/art/day-night-signals-banner.webp` (banner).
+Save as `assets/art/daynight-signals.webp` (poster) and `assets/art/daynight-signals-banner.webp` (banner).
 
 ```
-POSTER for "day-night-signals". Scene: A cinematic scene that visualises this game concept without any text: Respond “night” to a sun and “day” to a moon under the displayed rule. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: ember red and burnt orange against charcoal.
+POSTER for "daynight-signals". Scene: A cinematic scene that visualises this game concept without any text: Respond “night” to a sun and “day” to a moon under the displayed rule. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: ember red and burnt orange against charcoal.
 ```
 ```
-BANNER for "day-night-signals" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "daynight-signals" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 67. Category Flip
@@ -904,13 +904,13 @@ BANNER for "route-flash" (landscape 3:2, same world and palette, wider establish
 ```
 
 ## 91. Word–Picture Match
-Save as `assets/art/word-picture-match.webp` (poster) and `assets/art/word-picture-match-banner.webp` (banner).
+Save as `assets/art/wordpicture-match.webp` (poster) and `assets/art/wordpicture-match-banner.webp` (banner).
 
 ```
-POSTER for "word-picture-match". Scene: A cinematic scene that visualises this game concept without any text: Decide whether a displayed word names the pictured object. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: golden yellow and white-hot highlights against deep indigo.
+POSTER for "wordpicture-match". Scene: A cinematic scene that visualises this game concept without any text: Decide whether a displayed word names the pictured object. Treat it as a mysterious, beautiful world, using physical objects and light rather than UI screens. Palette: golden yellow and white-hot highlights against deep indigo.
 ```
 ```
-BANNER for "word-picture-match" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
+BANNER for "wordpicture-match" (landscape 3:2, same world and palette, wider establishing shot, subject on the right third).
 ```
 
 ## 92. Missing Piece Sprint
