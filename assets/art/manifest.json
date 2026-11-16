@@ -71,7 +71,8 @@
     "category-flip",
     "traffic-exception",
     "reverse-sort",
-    "keep-or-discard"
+    "keep-or-discard",
+    "mirror-controls"
   ],
   "banner": [
     "window-watch",
