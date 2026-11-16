@@ -170,7 +170,8 @@
     "strategy-reset",
     "undo-the-habit",
     "symbol-twins",
-    "code-key"
+    "code-key",
+    "bigger-value"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
