@@ -90,7 +90,8 @@
     "detail-detective",
     "learn-teach-cards",
     "memory-confidence",
-    "target-harbour"
+    "target-harbour",
+    "central-arrow"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
