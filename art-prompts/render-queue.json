@@ -398,5 +398,10 @@
     "id": "quiet-signal",
     "kind": "banner",
     "blob_sha": "d21a14eddd89449b469c6670d5e921a91add17f6"
+  },
+  {
+    "id": "changing-shopfront",
+    "kind": "poster",
+    "blob_sha": "872d1ab4a7cf3f0dbaf6538c95af4f2663ccdfc4"
   }
 ]
