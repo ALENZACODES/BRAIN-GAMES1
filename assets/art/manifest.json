@@ -28,7 +28,8 @@
     "story-anchors",
     "vocabulary-voyage",
     "symbol-dictionary",
-    "landmark-return"
+    "landmark-return",
+    "pair-builder"
   ],
   "banner": [
     "window-watch",
