@@ -20,7 +20,8 @@
     "rapid-equation-check",
     "parcel-sequence",
     "reverse-radio",
-    "caf-orders"
+    "caf-orders",
+    "last-three"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
