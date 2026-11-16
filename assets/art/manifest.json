@@ -59,7 +59,8 @@
     "signal-queue",
     "search-without-repeating",
     "conversation-filter",
-    "target-count"
+    "target-count",
+    "alert-or-routine"
   ],
   "banner": [
     "window-watch",
