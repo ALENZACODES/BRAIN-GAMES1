@@ -124,7 +124,8 @@
     "search-without-repeating",
     "conversation-filter",
     "target-count",
-    "alert-or-routine"
+    "alert-or-routine",
+    "moving-reading-window"
   ],
   "_note": "Add a game id to poster/banner after saving its WebP in assets/art/."
 }
