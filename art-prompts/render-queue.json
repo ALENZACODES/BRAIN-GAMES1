@@ -748,5 +748,10 @@
     "id": "strategy-reset",
     "kind": "banner",
     "blob_sha": "c81e01a19372649ff42149529055fbc71e1946bf"
+  },
+  {
+    "id": "undo-the-habit",
+    "kind": "poster",
+    "blob_sha": "28153b26ab16c0962f233b78b4f4a030d1c73d5b"
   }
 ]
