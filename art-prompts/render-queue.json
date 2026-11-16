@@ -33,5 +33,10 @@
     "id": "last-three",
     "kind": "poster",
     "blob_sha": "f354ebbdb824cf4240448860f08660e3000e7f52"
+  },
+  {
+    "id": "last-three",
+    "kind": "banner",
+    "blob_sha": "7220f0ab6967db403019bb5b2e9ea5d1e9b8267b"
   }
 ]
