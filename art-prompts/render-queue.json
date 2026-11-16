@@ -933,5 +933,10 @@
     "id": "accuracy-pacekeeper",
     "kind": "poster",
     "blob_sha": "f21d9c836003d0187ee6cb617837d506ac31f182"
+  },
+  {
+    "id": "accuracy-pacekeeper",
+    "kind": "banner",
+    "blob_sha": "737df6521ccf595d0bd688063fa07ac15e8e6650"
   }
 ]
