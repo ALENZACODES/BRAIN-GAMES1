@@ -58,7 +58,8 @@
     "feature-intersection",
     "signal-queue",
     "search-without-repeating",
-    "conversation-filter"
+    "conversation-filter",
+    "target-count"
   ],
   "banner": [
     "window-watch",
