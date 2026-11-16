@@ -253,5 +253,10 @@
     "id": "yesterday-s-board",
     "kind": "poster",
     "blob_sha": "6b74197aead019784432c63fe69ff226d48b871c"
+  },
+  {
+    "id": "yesterday-s-board",
+    "kind": "banner",
+    "blob_sha": "1c527df78a3a18a4d661421205d6ec753e6b8655"
   }
 ]
