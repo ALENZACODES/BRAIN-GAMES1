@@ -1,6 +1,6 @@
-# BRAIN GAMES · Memory & Focus
+# PRISMIND · Memory & Focus
 
-100 brain games for working memory, learning, attention, flexibility and speed (concepts 1–100). An installable web app with adaptive difficulty, saved progress, daily goals and two-player modes. No server, no accounts, no build step. Companion app: brain-games-logic (logic & reasoning, concepts 101–200).
+100 Prismind games for working memory, learning, attention, flexibility and speed (concepts 1–100). An installable web app with adaptive difficulty, saved progress, daily goals and two-player modes. No server, no accounts, no build step. Companion app: brain-games-logic (logic & reasoning, concepts 101–200).
 
 **All 100 games in this repo are playable.** Areas: Working memory · Learning · Attention · Flexibility · Speed.
 
