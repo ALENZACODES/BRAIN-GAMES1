@@ -131,7 +131,7 @@ export const G = [
         return { correct: true, endRun: true };
       }
       const old = new Set(saved.board), useOld = ctx.rng.chance(0.5), cand = useOld ? saved.board : t.probes.filter((x) => !old.has(x)), item = ctx.rng.pick(cand);
-      return runTrial({ kind: 'choice', promptHtml: tok(item, 200, 'big'), prompt: `Was this on your board from ${saved.date}?`, options: yesNo('On the board', 'Not on it'), answer: old.has(item), tag: old.has(item) ? 'yes' : 'no' }, ctx);
+      return runTrial({ kind: 'choice', promptHtml: tok(item, 200, 'big'), prompt: `Was this on your board from ${Math.round((Date.parse(today) - Date.parse(saved.date)) / 864e5) === 1 ? 'yesterday' : new Date(saved.date + 'T12:00').toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}?`, options: yesNo('On the board', 'Not on it'), answer: old.has(item), tag: old.has(item) ? 'yes' : 'no' }, ctx);
     },
     onEnd(stats) { if (stats.trials > 0) store.del('ybBoard'); },
     summary: (g, s) => (s.trials ? `Delayed recognition: ${s.correct}/${s.trials} correct (on the board ${s.tags.yesRight || 0}/${s.tags.yesTotal || 0}, new items ${s.tags.noRight || 0}/${s.tags.noTotal || 0}). Your next visit gives you a fresh board.` : 'Board saved. Come back on a later day to be tested on it.') }),

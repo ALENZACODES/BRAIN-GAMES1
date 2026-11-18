@@ -40,7 +40,7 @@ export default {
     btn.addEventListener('click', press); document.addEventListener('keydown', onKey);
     await ctx.sleep(700);
     for (let t = 0; t < seq.length; t++) {
-      cur = t; btn.classList.remove('pressed');
+      cur = t; if (globalThis.__QA) __QA.nt = t; btn.classList.remove('pressed');
       slot.replaceChildren(fruit(seq[t], 120));
       ring.style.animation = 'none'; void ring.offsetWidth; ring.style.animation = `beat ${interval}ms linear`;
       await ctx.sleep(interval);
